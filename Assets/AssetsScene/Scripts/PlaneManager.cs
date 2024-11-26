@@ -6,10 +6,6 @@ public class PlaneManager : MonoBehaviour {
 
     public GameObject[] sections; // Array to hold sections of the map
 
-    void Start() {
-        //ShowSection(currentSectionIndex); // Display the first section
-    }
-
     public void ChangeToSpecificSection(int fromSectionIndex, int toSectionIndex) {
         // Ensure the provided index is valid
         if (fromSectionIndex < 0 || fromSectionIndex >= sections.Length) {
