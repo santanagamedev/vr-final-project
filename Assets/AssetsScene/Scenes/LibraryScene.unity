@@ -132,7 +132,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1541243}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_x
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -163,7 +163,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1811427}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_pip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -194,7 +194,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2470723}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_dip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -225,7 +225,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4662312}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_middle_fingernail_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -256,7 +256,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5530765}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_finger_pad_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -287,7 +287,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9710659}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_pinky_pip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -319,7 +319,7 @@ GameObject:
   m_Component:
   - component: {fileID: 11172844}
   - component: {fileID: 11172845}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_batteryIndicatorQuad
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -407,7 +407,7 @@ GameObject:
   - component: {fileID: 18221697}
   - component: {fileID: 18221696}
   - component: {fileID: 18221695}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ReticleIcon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -506,7 +506,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 20160547}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LeftHandAnchorDetached
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -539,7 +539,7 @@ GameObject:
   - component: {fileID: 22017571}
   - component: {fileID: 22017573}
   - component: {fileID: 22017572}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -620,7 +620,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 24877219}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_y
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -651,7 +651,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 29171525}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandInteractorsRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -686,7 +686,7 @@ GameObject:
   m_Component:
   - component: {fileID: 30572579}
   - component: {fileID: 30572578}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Rigidbody
   m_TagString: Untagged
   m_Icon: {fileID: 8418204508859773708, guid: 0000000000000000d000000000000000, type: 0}
@@ -746,7 +746,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 39181302}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_ip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -778,7 +778,7 @@ GameObject:
   m_Component:
   - component: {fileID: 39575337}
   - component: {fileID: 39575338}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_touch_mesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -870,7 +870,7 @@ GameObject:
   m_Component:
   - component: {fileID: 40330918}
   - component: {fileID: 40330917}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: SelectionFrustum
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -917,7 +917,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 48844193}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_x
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -949,7 +949,7 @@ GameObject:
   m_Component:
   - component: {fileID: 49487225}
   - component: {fileID: 49487226}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_controller_ply
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1041,7 +1041,7 @@ GameObject:
   m_Component:
   - component: {fileID: 59005578}
   - component: {fileID: 59005579}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MetaQuestTouchPlus_Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1096,7 +1096,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 64465334}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_cmc_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1129,7 +1129,7 @@ GameObject:
   - component: {fileID: 65761957}
   - component: {fileID: 65761959}
   - component: {fileID: 65761958}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1211,7 +1211,7 @@ GameObject:
   m_Component:
   - component: {fileID: 69735506}
   - component: {fileID: 69735507}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_rainier_mesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1303,7 +1303,7 @@ GameObject:
   m_Component:
   - component: {fileID: 72780559}
   - component: {fileID: 72780558}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OVRHandDataSource
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1354,7 +1354,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 76817052}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_grip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1385,7 +1385,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 77187848}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_ring_dip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1416,7 +1416,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 80118171}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_laser_begin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1448,7 +1448,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 83485148}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_index1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1483,7 +1483,7 @@ GameObject:
   - component: {fileID: 83584005}
   - component: {fileID: 83584006}
   - component: {fileID: 83584007}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: RightController
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1548,7 +1548,7 @@ GameObject:
   m_Component:
   - component: {fileID: 85558302}
   - component: {fileID: 85558303}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_nub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1633,7 +1633,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 87830193}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1664,7 +1664,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 89057859}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_palm_collider_base1_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1695,7 +1695,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 90691543}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_middle1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1729,7 +1729,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 94776582}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: prp00002questController_animrig:left_monterey_controller_rig
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1761,7 +1761,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 102576493}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_thumbstick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1792,7 +1792,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 102789876}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1827,7 +1827,7 @@ GameObject:
   - component: {fileID: 103770679}
   - component: {fileID: 103770682}
   - component: {fileID: 103770681}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandGrabInteractor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1936,7 +1936,7 @@ GameObject:
   - component: {fileID: 103913381}
   - component: {fileID: 103913383}
   - component: {fileID: 103913382}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2020,7 +2020,7 @@ GameObject:
   - component: {fileID: 106346221}
   - component: {fileID: 106346220}
   - component: {fileID: 106346219}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: InteractorDebugVisual
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2119,7 +2119,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 106663781}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: prp00002questController_animrig:f_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2151,7 +2151,7 @@ GameObject:
   m_Component:
   - component: {fileID: 106792170}
   - component: {fileID: 106792171}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_batteryIndicatorQuad
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2236,7 +2236,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 110445108}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_hold1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2269,7 +2269,7 @@ GameObject:
   - component: {fileID: 112830130}
   - component: {fileID: 112830132}
   - component: {fileID: 112830131}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_handMeshNode
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2390,7 +2390,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 113017203}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_cmc_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2421,7 +2421,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 115187416}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_ring3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2456,7 +2456,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 116847181}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_ring2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2489,7 +2489,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 117971694}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_y
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2520,7 +2520,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 121197069}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_y
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2551,7 +2551,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 122636306}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_ring1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2585,7 +2585,7 @@ GameObject:
   m_Component:
   - component: {fileID: 122769089}
   - component: {fileID: 122769090}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandWristPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2632,7 +2632,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 125391984}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_cmc_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2663,7 +2663,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 127568888}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_oculus_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2784,7 +2784,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 131657030}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_thumbstick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2816,7 +2816,7 @@ GameObject:
   m_Component:
   - component: {fileID: 134641927}
   - component: {fileID: 134641926}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GripButtonSelector
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2914,7 +2914,7 @@ GameObject:
   - component: {fileID: 141166798}
   - component: {fileID: 141166800}
   - component: {fileID: 141166799}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2996,7 +2996,7 @@ GameObject:
   m_Component:
   - component: {fileID: 142545868}
   - component: {fileID: 142545869}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_oculus_controller_mesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3087,7 +3087,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 144420181}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_finger_pad_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3119,7 +3119,7 @@ GameObject:
   m_Component:
   - component: {fileID: 144674975}
   - component: {fileID: 144674976}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: oculus_controller_l_MeshX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3211,7 +3211,7 @@ GameObject:
   m_Component:
   - component: {fileID: 145972665}
   - component: {fileID: 145972666}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OculusTouchForQuest2LeftModel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3267,7 +3267,7 @@ GameObject:
   m_Component:
   - component: {fileID: 157080085}
   - component: {fileID: 157080086}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandGrabVisual
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3312,7 +3312,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 165151955}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_x
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3347,7 +3347,7 @@ GameObject:
   - component: {fileID: 165554902}
   - component: {fileID: 165554901}
   - component: {fileID: 165554900}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Distance Cube - Manipulate in place
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3477,7 +3477,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 165902659}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_palm_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3509,7 +3509,7 @@ GameObject:
   m_Component:
   - component: {fileID: 167608905}
   - component: {fileID: 167608906}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandFrustumNarrow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3558,7 +3558,7 @@ GameObject:
   - component: {fileID: 168264406}
   - component: {fileID: 168264408}
   - component: {fileID: 168264407}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3639,7 +3639,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 168990797}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_x
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3670,7 +3670,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 176196777}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_palm_collider_base0_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3822,7 +3822,7 @@ GameObject:
   - component: {fileID: 184004336}
   - component: {fileID: 184004335}
   - component: {fileID: 184004337}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GrabInteractor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3910,7 +3910,7 @@ GameObject:
   - component: {fileID: 186277960}
   - component: {fileID: 186277959}
   - component: {fileID: 186277958}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OVRLeftHandVisual
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4022,7 +4022,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 190275618}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_index1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4055,7 +4055,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 193935338}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_b_thumbstick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4086,7 +4086,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 194751101}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_mcp_aa_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4117,7 +4117,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 199431026}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4149,7 +4149,7 @@ GameObject:
   m_Component:
   - component: {fileID: 202165874}
   - component: {fileID: 202165875}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OVRHmdDataSource
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4198,7 +4198,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 210334908}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_palm_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4229,7 +4229,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 221282659}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_a
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4260,7 +4260,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 221927082}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_fingernail_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4294,7 +4294,7 @@ GameObject:
   - component: {fileID: 230704498}
   - component: {fileID: 230704497}
   - component: {fileID: 230704496}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ControllerGrabLocation
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4390,7 +4390,7 @@ GameObject:
   - component: {fileID: 240949575}
   - component: {fileID: 240949573}
   - component: {fileID: 240949574}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: RightHand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4455,7 +4455,7 @@ GameObject:
   m_Component:
   - component: {fileID: 244571876}
   - component: {fileID: 244571875}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GripButtonSelector
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4501,7 +4501,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 245597588}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_index_null
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4532,7 +4532,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 248421897}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_pinky_mcp_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4565,7 +4565,7 @@ GameObject:
   - component: {fileID: 251776516}
   - component: {fileID: 251776518}
   - component: {fileID: 251776517}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4650,7 +4650,7 @@ GameObject:
   - component: {fileID: 253186854}
   - component: {fileID: 253186853}
   - component: {fileID: 253186852}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Distance Cube - PItH
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4781,7 +4781,7 @@ GameObject:
   m_Component:
   - component: {fileID: 256488873}
   - component: {fileID: 256488874}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OculusHand_L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4835,7 +4835,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 256796924}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_thumb_null
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4866,7 +4866,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 261707638}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_touch_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4903,7 +4903,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 265111755}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_pinky0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4935,7 +4935,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 265497440}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_middle_palm_collider_base0_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4968,7 +4968,7 @@ GameObject:
   - component: {fileID: 266119867}
   - component: {fileID: 266119869}
   - component: {fileID: 266119868}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5051,7 +5051,7 @@ GameObject:
   - component: {fileID: 266589153}
   - component: {fileID: 266589155}
   - component: {fileID: 266589154}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_handMeshNode
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5172,7 +5172,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 268899227}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_laser_begin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5204,7 +5204,7 @@ GameObject:
   m_Component:
   - component: {fileID: 272514805}
   - component: {fileID: 272514806}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_oculus_controller_mesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5295,7 +5295,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 280473686}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_thumb1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5334,7 +5334,7 @@ GameObject:
   - component: {fileID: 280834836}
   - component: {fileID: 280834835}
   - component: {fileID: 280834834}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ReticleLine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5489,7 +5489,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 283069048}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_b
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5520,7 +5520,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 286448941}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_palm_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5554,7 +5554,7 @@ GameObject:
   - component: {fileID: 289156376}
   - component: {fileID: 289156375}
   - component: {fileID: 289156374}
-  m_Layer: 2
+  m_Layer: 7
   m_Name: PinchPointRange
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5637,7 +5637,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 291022007}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_middle2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5670,7 +5670,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 291408144}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_thumb1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5705,7 +5705,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 293776920}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_oculus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5736,7 +5736,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 294100620}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_palm_collider_base0_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5767,7 +5767,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 300317774}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_fingernail_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5798,7 +5798,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 308791647}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_palm_center_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5829,7 +5829,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 309073011}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_mcp_aa_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5860,7 +5860,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 311293201}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_pinky_finger_tip_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5891,7 +5891,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 313202933}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5923,7 +5923,7 @@ GameObject:
   m_Component:
   - component: {fileID: 314184268}
   - component: {fileID: 314184269}
-  m_Layer: 2
+  m_Layer: 7
   m_Name: PinchPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5973,7 +5973,7 @@ GameObject:
   m_Component:
   - component: {fileID: 314760151}
   - component: {fileID: 314760152}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_batteryIndicatorQuad_MeshX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6058,7 +6058,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 321168423}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_oculus_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6097,7 +6097,7 @@ GameObject:
   - component: {fileID: 324489437}
   - component: {fileID: 324489436}
   - component: {fileID: 324489435}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandDataLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6161,7 +6161,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 324640453}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_middle1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6196,7 +6196,7 @@ GameObject:
   m_Component:
   - component: {fileID: 325123120}
   - component: {fileID: 325123121}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: '[BuildingBlock] Controller Interactions'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6247,7 +6247,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 328230167}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_dip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6280,7 +6280,7 @@ GameObject:
   - component: {fileID: 330783144}
   - component: {fileID: 330783146}
   - component: {fileID: 330783145}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: '[BuildingBlock] Synthetic Right Hand'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6503,7 +6503,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 331015791}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6534,7 +6534,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 336679251}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: laser_begin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6565,7 +6565,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 339574673}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_pinky1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6598,7 +6598,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 345451088}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_thumb3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6633,7 +6633,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 346267022}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_thumbstick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6664,7 +6664,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 351392159}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_finger_pad_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6695,7 +6695,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 353045689}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_palm_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6726,7 +6726,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 353644188}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_oculus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6757,7 +6757,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 357063821}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: prp00002questController_animrig:f_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6792,7 +6792,7 @@ GameObject:
   - component: {fileID: 357689605}
   - component: {fileID: 357689604}
   - component: {fileID: 357689603}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ReticleLine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6949,7 +6949,7 @@ GameObject:
   - component: {fileID: 358017571}
   - component: {fileID: 358017573}
   - component: {fileID: 358017572}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7032,7 +7032,7 @@ GameObject:
   - component: {fileID: 362218263}
   - component: {fileID: 362218265}
   - component: {fileID: 362218264}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7113,7 +7113,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 369027858}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_palm_center_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7144,7 +7144,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 372692843}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_pip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7175,7 +7175,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 378024514}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_thumb_null
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7206,7 +7206,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 381394587}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_oculus_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7246,7 +7246,7 @@ GameObject:
   - component: {fileID: 392029762}
   - component: {fileID: 392029760}
   - component: {fileID: 392029761}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LeftHand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7310,7 +7310,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 395224276}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_finger_pad_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7341,7 +7341,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 396432620}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_fingernail_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7372,7 +7372,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 398990525}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Visuals
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7405,7 +7405,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 408342590}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_mcp_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7436,7 +7436,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 411948480}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7467,7 +7467,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 415137193}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_palm_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7498,7 +7498,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 415393303}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_ring1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7531,7 +7531,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 418797709}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_pinky2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7564,7 +7564,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 422783929}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_a
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7595,7 +7595,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 423278656}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_y
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7626,7 +7626,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 427002413}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_oculus_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7664,7 +7664,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 428688208}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_thumbstick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7763,7 +7763,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 439065664}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_y
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7795,7 +7795,7 @@ GameObject:
   m_Component:
   - component: {fileID: 439585894}
   - component: {fileID: 439585895}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandGrabGlow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7850,7 +7850,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 441318268}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_pinky2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7885,7 +7885,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 444798368}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ControllerInteractors
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7918,7 +7918,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 449171184}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_thumb_finger_pad_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7949,7 +7949,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 450299385}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_thumb0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7981,7 +7981,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 451616068}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_dip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8012,7 +8012,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 455767728}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_dip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8043,7 +8043,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 457003802}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8074,7 +8074,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 458727746}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_ring_null
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8105,7 +8105,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 458766541}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_thumb_ip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8142,7 +8142,7 @@ GameObject:
   - component: {fileID: 460809851}
   - component: {fileID: 460809850}
   - component: {fileID: 460809849}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ISDK_DistanceHandGrabInteraction
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8307,7 +8307,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 471160212}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_pinky_mcp_aa_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8338,7 +8338,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 472640106}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_fingernail_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8369,7 +8369,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 472927572}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_oculus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8401,7 +8401,7 @@ GameObject:
   m_Component:
   - component: {fileID: 475264375}
   - component: {fileID: 475264376}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandWristPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8531,7 +8531,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 483444695}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_forearm_stub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8562,7 +8562,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 483505400}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_ring_null
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8593,7 +8593,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 486459411}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_pinky2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8627,7 +8627,7 @@ GameObject:
   m_Component:
   - component: {fileID: 487079817}
   - component: {fileID: 487079818}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GripPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8676,7 +8676,7 @@ GameObject:
   m_Component:
   - component: {fileID: 487609611}
   - component: {fileID: 487609612}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_oculus_controller_mesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8767,7 +8767,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 491529978}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_middle_palm_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8800,7 +8800,7 @@ GameObject:
   - component: {fileID: 492404204}
   - component: {fileID: 492404206}
   - component: {fileID: 492404205}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8882,7 +8882,7 @@ GameObject:
   m_Component:
   - component: {fileID: 493927406}
   - component: {fileID: 493927407}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: PinchPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8934,7 +8934,7 @@ GameObject:
   - component: {fileID: 496546517}
   - component: {fileID: 496546519}
   - component: {fileID: 496546518}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9015,7 +9015,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 496596252}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9048,7 +9048,7 @@ GameObject:
   - component: {fileID: 504038690}
   - component: {fileID: 504038689}
   - component: {fileID: 504038688}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9113,7 +9113,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 504782470}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_ring_palm_collider_base1_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9144,7 +9144,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 508567463}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Visuals
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9177,7 +9177,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 532288969}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_fingernail_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9209,7 +9209,7 @@ GameObject:
   m_Component:
   - component: {fileID: 535634980}
   - component: {fileID: 535634981}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GripPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9259,7 +9259,7 @@ GameObject:
   - component: {fileID: 541628083}
   - component: {fileID: 541628082}
   - component: {fileID: 541628081}
-  m_Layer: 2
+  m_Layer: 7
   m_Name: PinchPointRange
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9333,6 +9333,112 @@ MonoBehaviour:
   _offset: {x: -0.11, y: -0.075, z: -0.02}
   _rotation: {x: 0.105225, y: -0.6678412, z: 0.013933297, w: 0.7366965}
   _mirrorOffsetsForLeftHand: 1
+--- !u!1 &544144794
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 544144796}
+  - component: {fileID: 544144797}
+  m_Layer: 0
+  m_Name: Solo Cube
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &544144796
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 544144794}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.5899409, y: 1.2419391, z: -0.15639198}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1604245618}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &544144797
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 544144794}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1464721f2283eb14e94a33e812b47be4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _interactableView: {fileID: 2036739890}
+  _whenHover:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1861126905}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+  _whenUnhover:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1861126905}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  _whenSelect:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1861126905}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  _whenUnselect:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenInteractorViewAdded:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenInteractorViewRemoved:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelectingInteractorViewAdded:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenSelectingInteractorViewRemoved:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &546113146
 GameObject:
   m_ObjectHideFlags: 0
@@ -9342,7 +9448,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 546113147}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_ring_pip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9373,7 +9479,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 547235762}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_dip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9405,7 +9511,7 @@ GameObject:
   m_Component:
   - component: {fileID: 554919792}
   - component: {fileID: 554919791}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OVRControllerDataSource
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9454,7 +9560,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 560941451}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_palm_collider_base0_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9536,7 +9642,7 @@ GameObject:
   m_Component:
   - component: {fileID: 561156344}
   - component: {fileID: 561156343}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: SelectionFrustum
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9584,7 +9690,7 @@ GameObject:
   m_Component:
   - component: {fileID: 561472053}
   - component: {fileID: 561472052}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Rigidbody
   m_TagString: Untagged
   m_Icon: {fileID: 8418204508859773708, guid: 0000000000000000d000000000000000, type: 0}
@@ -9644,7 +9750,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 566614604}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_oculus_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9682,7 +9788,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 568121325}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_grip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9713,7 +9819,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 570068899}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_pinky3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9751,7 +9857,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 570960782}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_palm_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9784,7 +9890,7 @@ GameObject:
   - component: {fileID: 579989953}
   - component: {fileID: 579989955}
   - component: {fileID: 579989954}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9867,7 +9973,7 @@ GameObject:
   - component: {fileID: 587869142}
   - component: {fileID: 587869144}
   - component: {fileID: 587869143}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9952,7 +10058,7 @@ GameObject:
   - component: {fileID: 589885194}
   - component: {fileID: 589885192}
   - component: {fileID: 589885195}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: DistanceGrabInteractor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10059,7 +10165,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 591819903}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_mcp_aa_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10090,7 +10196,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 597457086}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_finger_tip_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10123,7 +10229,7 @@ GameObject:
   - component: {fileID: 601610116}
   - component: {fileID: 601610118}
   - component: {fileID: 601610117}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10206,7 +10312,7 @@ GameObject:
   - component: {fileID: 609587129}
   - component: {fileID: 609587131}
   - component: {fileID: 609587130}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10288,7 +10394,7 @@ GameObject:
   m_Component:
   - component: {fileID: 609844666}
   - component: {fileID: 609844667}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_nub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10373,7 +10479,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 612058420}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_palm_collider_base1_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10411,7 +10517,7 @@ GameObject:
   - component: {fileID: 615909294}
   - component: {fileID: 615909293}
   - component: {fileID: 615909292}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: '[BuildingBlock] Hand Tracking right'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10511,7 +10617,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 615909290}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5cc5c234723e3a54d8dd09b131117743, type: 3}
   m_Name: 
@@ -10597,7 +10703,7 @@ GameObject:
   m_Component:
   - component: {fileID: 616297119}
   - component: {fileID: 616297120}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_batteryIndicatorQuad_MeshX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10682,7 +10788,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 624526679}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_finger_tip_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10713,7 +10819,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 625326976}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_oculus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10744,7 +10850,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 626098657}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_mcp_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10775,7 +10881,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 626348936}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_fingernail_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10806,7 +10912,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 629232884}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10844,7 +10950,7 @@ GameObject:
   - component: {fileID: 633990951}
   - component: {fileID: 633990950}
   - component: {fileID: 633990949}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ISDK_DistanceHandGrabInteraction
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11286,7 +11392,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 643160998}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_index3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11324,7 +11430,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 649645824}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_b_trigger_front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11355,7 +11461,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 652611723}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_palm_collider_base0_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11386,7 +11492,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 653630001}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_grip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11417,7 +11523,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 654575189}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_thumb2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11453,7 +11559,7 @@ GameObject:
   m_Component:
   - component: {fileID: 655569917}
   - component: {fileID: 655569918}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OculusTouchForQuest2LeftModel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11510,7 +11616,7 @@ GameObject:
   - component: {fileID: 655707601}
   - component: {fileID: 655707603}
   - component: {fileID: 655707602}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11593,7 +11699,7 @@ GameObject:
   - component: {fileID: 656341100}
   - component: {fileID: 656341102}
   - component: {fileID: 656341101}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11675,7 +11781,7 @@ GameObject:
   m_Component:
   - component: {fileID: 658180239}
   - component: {fileID: 658180240}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GrabCenter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11720,7 +11826,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 659616453}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_index_null
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11751,7 +11857,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 659768838}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11784,7 +11890,7 @@ GameObject:
   - component: {fileID: 665736993}
   - component: {fileID: 665736991}
   - component: {fileID: 665736992}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11849,7 +11955,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 666421229}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_forearm_stub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11880,7 +11986,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 667471553}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_mcp_aa_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11911,7 +12017,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 668005762}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_mcp_aa_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11942,7 +12048,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 671014413}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_pinky0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11974,7 +12080,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 671367061}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: prp00002questController_animrig:right_monterey_controller_rig
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12006,7 +12112,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 680893674}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12037,7 +12143,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 682723103}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_middle_null
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12068,7 +12174,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 695048908}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pasted__laser_end_pointer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12099,7 +12205,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 697006822}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_b
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12130,7 +12236,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 699108222}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_hold1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12163,7 +12269,7 @@ GameObject:
   - component: {fileID: 700307065}
   - component: {fileID: 700307067}
   - component: {fileID: 700307066}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12244,7 +12350,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 706023772}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_finger_pad_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12275,7 +12381,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 708263037}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_index3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12310,7 +12416,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 708788962}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_index3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12347,7 +12453,7 @@ GameObject:
   - component: {fileID: 710543960}
   - component: {fileID: 710543962}
   - component: {fileID: 710543961}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12428,7 +12534,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 715301215}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_pinky1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12461,7 +12567,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 715387903}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_thumb_null
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12493,7 +12599,7 @@ GameObject:
   m_Component:
   - component: {fileID: 721978838}
   - component: {fileID: 721978839}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_batteryIndicatorQuad
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12578,7 +12684,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 729540180}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_oculus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12609,7 +12715,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 732503421}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_mcp_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12641,7 +12747,7 @@ GameObject:
   m_Component:
   - component: {fileID: 732882424}
   - component: {fileID: 732882425}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OculusTouchForQuest2RightModel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12696,7 +12802,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 734216463}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_middle_palm_collider_base1_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12727,7 +12833,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 734538946}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_pip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12758,7 +12864,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 735589249}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_palm_collider_base0_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12789,7 +12895,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 736782632}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_palm_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12822,7 +12928,7 @@ GameObject:
   - component: {fileID: 739604681}
   - component: {fileID: 739604683}
   - component: {fileID: 739604682}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12905,7 +13011,7 @@ GameObject:
   - component: {fileID: 741191949}
   - component: {fileID: 741191951}
   - component: {fileID: 741191950}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ISDK_SnapZone (Distance Cube - GRtH)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12982,7 +13088,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 745404878}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_index_null
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13013,7 +13119,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 746416957}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_y
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13044,7 +13150,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 748262064}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_mcp_aa_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13075,7 +13181,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 748318341}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13106,7 +13212,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 751035028}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_oculus_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13144,7 +13250,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 752180889}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_mcp_aa_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13175,7 +13281,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 753583054}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_pip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13206,7 +13312,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 753828054}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_finger_tip_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13238,7 +13344,7 @@ GameObject:
   m_Component:
   - component: {fileID: 756639356}
   - component: {fileID: 756639357}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OVRHmd
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13286,7 +13392,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 756816371}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_grip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13317,7 +13423,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 758656546}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_index2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13350,7 +13456,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 761817420}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_thumb3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13388,7 +13494,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 761824704}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_ring2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13424,7 +13530,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 768670096}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_pinky3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13460,7 +13566,7 @@ GameObject:
   m_Component:
   - component: {fileID: 772137815}
   - component: {fileID: 772137816}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_batteryIndicatorQuad
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13545,7 +13651,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 772470475}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_oculus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13576,7 +13682,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 773295042}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_pinky_palm_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13607,7 +13713,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 779846598}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_b_button_oculus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13638,7 +13744,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 779969651}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_x
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13669,7 +13775,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 783044290}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_middle_mcp_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13700,7 +13806,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 785466086}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_thumbstick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13731,7 +13837,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 795827930}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_stick_IGNORE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13764,7 +13870,7 @@ GameObject:
   - component: {fileID: 800766812}
   - component: {fileID: 800766814}
   - component: {fileID: 800766813}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13845,7 +13951,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 803094527}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_thumb2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13878,7 +13984,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 804111945}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_palm_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13912,7 +14018,7 @@ GameObject:
   - component: {fileID: 804806664}
   - component: {fileID: 804806663}
   - component: {fileID: 804806662}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: '[BuildingBlock] Interaction'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13993,7 +14099,7 @@ GameObject:
   - component: {fileID: 807609411}
   - component: {fileID: 807609413}
   - component: {fileID: 807609412}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14075,7 +14181,7 @@ GameObject:
   m_Component:
   - component: {fileID: 808408512}
   - component: {fileID: 808408513}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Wrist
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14123,7 +14229,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 815352897}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: DebugVisuals
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14155,7 +14261,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 817043802}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_thumb2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14188,7 +14294,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 820495608}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_middle_pip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14219,7 +14325,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 820616386}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14251,7 +14357,7 @@ GameObject:
   m_Component:
   - component: {fileID: 822060110}
   - component: {fileID: 822060111}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MetaQuestTouchPlus_Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14306,7 +14412,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 823088387}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_dip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14337,7 +14443,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 825592509}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_ring2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14377,7 +14483,7 @@ GameObject:
   - component: {fileID: 827046217}
   - component: {fileID: 827046215}
   - component: {fileID: 827046218}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: DistanceGrabInteractor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14484,7 +14590,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 831298997}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_palm_collider_base1_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14515,7 +14621,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 831705842}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_middle_finger_tip_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14546,7 +14652,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 833527925}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Distance Cube - Manipulate in place
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14579,7 +14685,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 833898820}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_pinky_null
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14610,7 +14716,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 835937512}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Distance Cube - Pull interactable to hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14644,7 +14750,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 836272763}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_finger_tip_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14675,7 +14781,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 837440862}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_pip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14706,7 +14812,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 841562954}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_wrist
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14770,7 +14876,7 @@ GameObject:
   m_Component:
   - component: {fileID: 843537390}
   - component: {fileID: 843537391}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_touch_controller_model_skel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14828,7 +14934,7 @@ GameObject:
   - component: {fileID: 846741315}
   - component: {fileID: 846741314}
   - component: {fileID: 846741313}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandSphereMap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14944,7 +15050,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 848408261}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: laser_begin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14975,7 +15081,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 853938349}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandInteractorsLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15009,7 +15115,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 855941715}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_thumb_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15041,7 +15147,7 @@ GameObject:
   m_Component:
   - component: {fileID: 858376788}
   - component: {fileID: 858376789}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_rainier_mesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15134,7 +15240,7 @@ GameObject:
   - component: {fileID: 859956208}
   - component: {fileID: 859956210}
   - component: {fileID: 859956209}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15216,7 +15322,7 @@ GameObject:
   m_Component:
   - component: {fileID: 860632135}
   - component: {fileID: 860632136}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OVRControllerVisual
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15261,7 +15367,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 860887589}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_middle_null
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15292,7 +15398,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 862114720}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_finger_pad_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15323,7 +15429,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 863247668}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_laser_begin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15356,7 +15462,7 @@ GameObject:
   m_Component:
   - component: {fileID: 864301745}
   - component: {fileID: 864301746}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_touch_controller_model_skel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15412,7 +15518,7 @@ GameObject:
   - component: {fileID: 866375463}
   - component: {fileID: 866375465}
   - component: {fileID: 866375464}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: '[BuildingBlock] Controller Tracking Right'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15497,7 +15603,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 877199080}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_thumbstick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15528,7 +15634,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 879047458}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_mcp_aa_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15561,7 +15667,7 @@ GameObject:
   - component: {fileID: 885792959}
   - component: {fileID: 885792961}
   - component: {fileID: 885792960}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15642,7 +15748,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 888056259}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15673,7 +15779,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 890232912}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_index_mcp_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15704,7 +15810,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 892072826}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: laser_begin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15735,7 +15841,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 893468043}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_index_finger_pad_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15769,7 +15875,7 @@ GameObject:
   - component: {fileID: 894075437}
   - component: {fileID: 894075436}
   - component: {fileID: 894075435}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ReticleIcon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15868,7 +15974,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 895225395}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_palm_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15899,7 +16005,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 895484073}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_monterey_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15936,7 +16042,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 898599089}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15967,7 +16073,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 903323494}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_palm_collider_base1_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15998,7 +16104,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 909614137}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_a
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16029,7 +16135,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 910314347}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_palm_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16060,7 +16166,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 911366822}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_ring_null
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16094,7 +16200,7 @@ GameObject:
   - component: {fileID: 912902223}
   - component: {fileID: 912902222}
   - component: {fileID: 912902221}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OVRRightHandVisual
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16206,7 +16312,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 913568070}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_fingernail_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16237,7 +16343,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 913652130}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: laser_begin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16268,7 +16374,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 915793307}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_dip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16299,7 +16405,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 916950466}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_monterey_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16336,7 +16442,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 918418240}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_ip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16367,7 +16473,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 922530778}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16398,7 +16504,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 925083475}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_laser_begin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16430,7 +16536,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 935301568}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_thumb_palm_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16461,7 +16567,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 941793555}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_thumbstick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16492,7 +16598,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 943057384}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_ip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16524,7 +16630,7 @@ GameObject:
   m_Component:
   - component: {fileID: 947337217}
   - component: {fileID: 947337218}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_controller_ply
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16615,7 +16721,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 955489992}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16646,7 +16752,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 956750018}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_thumb_finger_tip_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16678,7 +16784,7 @@ GameObject:
   m_Component:
   - component: {fileID: 956782258}
   - component: {fileID: 956782259}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandWristOffsetFrustum
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16725,7 +16831,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 957677188}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_ring3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16760,7 +16866,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 959977241}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_stick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16792,7 +16898,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 962132642}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_index_palm_collider_base0_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16823,7 +16929,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 970676313}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ControllerInteractors
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17093,7 +17199,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 978187001}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_mcp_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17124,7 +17230,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 984834070}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_grip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17156,7 +17262,7 @@ GameObject:
   m_Component:
   - component: {fileID: 986284914}
   - component: {fileID: 986284915}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandGrabVisual
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17201,7 +17307,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 987610724}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17232,7 +17338,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 990412468}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_ring_mcp_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17501,7 +17607,7 @@ GameObject:
   m_Component:
   - component: {fileID: 998324286}
   - component: {fileID: 998324287}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: FilteredWristOffset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17557,7 +17663,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 999392685}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_b_trigger_grip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17589,7 +17695,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1000374240}
   - component: {fileID: 1000374241}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OculusTouchForQuestAndRiftS_Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17644,7 +17750,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1003720284}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17675,7 +17781,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1004465288}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_pinky_finger_pad_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17706,7 +17812,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1006159498}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Anchor point
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17738,7 +17844,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1006320137}
   - component: {fileID: 1006320138}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MetaQuestTouchPlus_Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17795,7 +17901,7 @@ GameObject:
   - component: {fileID: 1007852416}
   - component: {fileID: 1007852418}
   - component: {fileID: 1007852417}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17876,7 +17982,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1009042048}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_palm_collider_base1_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17907,7 +18013,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1022988928}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_mcp_aa_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17940,7 +18046,7 @@ GameObject:
   - component: {fileID: 1024471216}
   - component: {fileID: 1024471218}
   - component: {fileID: 1024471217}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18022,7 +18128,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1025210859}
   - component: {fileID: 1025210860}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandFrustumWide
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18152,7 +18258,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1033949231}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_oculus_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18189,7 +18295,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1034040585}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_b
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18220,7 +18326,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1038473085}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_palm_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18253,7 +18359,7 @@ GameObject:
   - component: {fileID: 1039275406}
   - component: {fileID: 1039275408}
   - component: {fileID: 1039275407}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18334,7 +18440,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1042466113}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_mcp_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18367,7 +18473,7 @@ GameObject:
   - component: {fileID: 1049991455}
   - component: {fileID: 1049991457}
   - component: {fileID: 1049991456}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18448,7 +18554,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1050912978}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_a
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18479,7 +18585,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1051609290}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_b
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18510,7 +18616,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1054749864}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_oculus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18541,7 +18647,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1058192113}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18574,7 +18680,7 @@ GameObject:
   - component: {fileID: 1060911165}
   - component: {fileID: 1060911167}
   - component: {fileID: 1060911166}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18655,7 +18761,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1062216629}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_finger_pad_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18688,7 +18794,7 @@ GameObject:
   - component: {fileID: 1062636715}
   - component: {fileID: 1062636717}
   - component: {fileID: 1062636716}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: '[BuildingBlock] Controller Tracking Left'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18775,7 +18881,7 @@ GameObject:
   - component: {fileID: 1062668191}
   - component: {fileID: 1062668193}
   - component: {fileID: 1062668192}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18856,7 +18962,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1063117415}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_pinky0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18956,7 +19062,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1064944639}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_mcp_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18987,7 +19093,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1065192450}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Visuals
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19020,7 +19126,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1065626913}
   - component: {fileID: 1065626914}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HoverLocation
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19069,7 +19175,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1066460585}
   - component: {fileID: 1066460586}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_batteryIndicatorQuad_MeshX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19156,7 +19262,7 @@ GameObject:
   - component: {fileID: 1066497780}
   - component: {fileID: 1066497782}
   - component: {fileID: 1066497781}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19238,7 +19344,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1068858507}
   - component: {fileID: 1068858508}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_rainier_mesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19329,7 +19435,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1069082952}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_ring_null
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19360,7 +19466,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1069205248}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_touch_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19398,7 +19504,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1073886876}
   - component: {fileID: 1073886877}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_oculus_controller_mesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19493,7 +19599,7 @@ GameObject:
   - component: {fileID: 1076599618}
   - component: {fileID: 1076599617}
   - component: {fileID: 1076599616}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ReticleLine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19648,7 +19754,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1077682037}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_stick_IGNORE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19683,7 +19789,7 @@ GameObject:
   - component: {fileID: 1087490206}
   - component: {fileID: 1087490205}
   - component: {fileID: 1087490204}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ReticleLine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19838,7 +19944,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1087503409}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_finger_pad_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19869,7 +19975,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1093393017}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_index1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19902,7 +20008,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1103315340}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_mcp_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19933,7 +20039,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1103444746}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_ring_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19969,7 +20075,7 @@ GameObject:
   - component: {fileID: 1106310729}
   - component: {fileID: 1106310731}
   - component: {fileID: 1106310730}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: DistanceHandGrabInteractor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20098,7 +20204,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1106959745}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_wrist
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20161,7 +20267,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1109881728}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_pinky1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20195,7 +20301,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1117485504}
   - component: {fileID: 1117485505}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandFrustumNarrow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20242,7 +20348,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1124047844}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Visuals
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20274,7 +20380,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1134131356}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_pinky3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20314,7 +20420,7 @@ GameObject:
   - component: {fileID: 1139829323}
   - component: {fileID: 1139829322}
   - component: {fileID: 1139829321}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HeadFrustum
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20377,7 +20483,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1147514094}
   - component: {fileID: 1147514095}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GrabCenter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20426,7 +20532,7 @@ GameObject:
   - component: {fileID: 1155317003}
   - component: {fileID: 1155317002}
   - component: {fileID: 1155317001}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: TouchHandGrabInteractor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20528,7 +20634,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1163565321}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20562,7 +20668,7 @@ GameObject:
   - component: {fileID: 1169898543}
   - component: {fileID: 1169898542}
   - component: {fileID: 1169898541}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ReticleMesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20686,7 +20792,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1177479136}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_palm_collider_base0_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20717,7 +20823,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1179612266}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_ring2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20750,7 +20856,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1180427819}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_middle1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20784,7 +20890,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1181803193}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_finger_tip_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20821,7 +20927,7 @@ GameObject:
   - component: {fileID: 1182266209}
   - component: {fileID: 1182266208}
   - component: {fileID: 1182266207}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ISDK_DistanceHandGrabInteraction
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20988,7 +21094,7 @@ GameObject:
   - component: {fileID: 1191534859}
   - component: {fileID: 1191534861}
   - component: {fileID: 1191534860}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21069,7 +21175,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1191636416}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_finger_tip_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21100,7 +21206,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1192578161}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_palm_collider_base0_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21131,7 +21237,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1193616002}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: prp00002questController_animrig:left_monterey_controller_rig
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21163,7 +21269,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1201107482}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_palm_collider_base1_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21194,7 +21300,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1206322671}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_hold
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21225,7 +21331,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1209396109}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_index2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21261,7 +21367,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1211698323}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_oculus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21294,7 +21400,7 @@ GameObject:
   - component: {fileID: 1213558648}
   - component: {fileID: 1213558650}
   - component: {fileID: 1213558649}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21375,7 +21481,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1214151744}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21406,7 +21512,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1215347558}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_touch_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21445,7 +21551,7 @@ GameObject:
   - component: {fileID: 1219038914}
   - component: {fileID: 1219038916}
   - component: {fileID: 1219038915}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21526,7 +21632,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1228051032}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_index2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21559,7 +21665,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1232797280}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_palm_center_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21592,7 +21698,7 @@ GameObject:
   - component: {fileID: 1235565679}
   - component: {fileID: 1235565681}
   - component: {fileID: 1235565680}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_handMeshNode
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21714,7 +21820,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1240070784}
   - component: {fileID: 1240070785}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_nub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21800,7 +21906,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1240583522}
   - component: {fileID: 1240583523}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandGrabGlow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21855,7 +21961,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1242520503}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_palm_collider_base0_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21886,7 +21992,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1244072081}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_x
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21917,7 +22023,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1246498715}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_ring1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21950,7 +22056,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1248855289}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_middle3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21990,7 +22096,7 @@ GameObject:
   - component: {fileID: 1253583146}
   - component: {fileID: 1253583148}
   - component: {fileID: 1253583147}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22072,7 +22178,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1256641559}
   - component: {fileID: 1256641560}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OculusTouchForQuestAndRiftS_Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22128,7 +22234,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1260591652}
   - component: {fileID: 1260591653}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_rainier_mesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22219,7 +22325,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1260983677}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_dip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22250,7 +22356,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1261144595}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22281,7 +22387,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1261751460}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_palm_collider_base1_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22312,7 +22418,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1263382788}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_b_button_oculus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22344,7 +22450,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1264619048}
   - component: {fileID: 1264619049}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandGrabVisual
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22389,7 +22495,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1270262672}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_mcp_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22420,7 +22526,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1271359829}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Visuals
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22456,7 +22562,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1271477389}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_ring_finger_pad_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22487,7 +22593,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1276104772}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_forearm_stub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22518,7 +22624,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1278815735}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_thumb0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22550,7 +22656,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1283924718}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_palm_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22582,7 +22688,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1284823288}
   - component: {fileID: 1284823289}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OculusTouchForQuestAndRiftS_Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22636,9 +22742,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 100004, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 100008, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: m_Name
       value: OVRPlayerController
+      objectReference: {fileID: 0}
+    - target: {fileID: 100008, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 100008, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: m_IsActive
@@ -22647,6 +22765,34 @@ PrefabInstance:
     - target: {fileID: 100008, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: m_TagString
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 100010, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 100012, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 100014, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 134650, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 162066, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 162068, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 168962, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: m_LocalPosition.x
@@ -22714,7 +22860,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 14300000, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: m_Radius
-      value: 0.25
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1125068011842588, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1660603843503870, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22854,7 +23008,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1285981224}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_finger_tip_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22885,7 +23039,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1287793678}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_finger_pad_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22918,7 +23072,7 @@ GameObject:
   - component: {fileID: 1291430001}
   - component: {fileID: 1291430003}
   - component: {fileID: 1291430002}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23002,7 +23156,7 @@ GameObject:
   - component: {fileID: 1291975444}
   - component: {fileID: 1291975443}
   - component: {fileID: 1291975442}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ReticleIcon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23101,7 +23255,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1292780846}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_pinky1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23134,7 +23288,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1300463294}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_middle_dip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23165,7 +23319,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1303795106}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_y
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23196,7 +23350,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1304816842}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: DebugVisuals
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23228,7 +23382,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1310298187}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_palm_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23266,7 +23420,7 @@ GameObject:
   - component: {fileID: 1310931471}
   - component: {fileID: 1310931470}
   - component: {fileID: 1310931469}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: '[BuildingBlock] Hand Tracking left'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23366,7 +23520,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1310931467}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5cc5c234723e3a54d8dd09b131117743, type: 3}
   m_Name: 
@@ -23451,7 +23605,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1322536017}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: prp00002questController_animrig:RIG_left_monterey_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23483,7 +23637,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1322648736}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23514,7 +23668,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1331959347}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_oculus_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23553,7 +23707,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1337117362}
   - component: {fileID: 1337117363}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OculusTouchForQuestAndRiftS_Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23608,7 +23762,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1349435184}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: prp00002questController_animrig:RIG_left_monterey_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23640,7 +23794,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1350466173}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_palm_collider_base1_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23671,7 +23825,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1351138385}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_pinky_dip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23702,7 +23856,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1357512653}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_grip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23733,7 +23887,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1364097586}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_b_button_oculus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23764,7 +23918,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1364115161}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_index_fingernail_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23795,7 +23949,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1364282786}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_mcp_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23826,7 +23980,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1364342228}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_index2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23862,7 +24016,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1369961538}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_oculus_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23900,7 +24054,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1371016567}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_a
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23931,7 +24085,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1378606596}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_middle_mcp_aa_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23962,7 +24116,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1379211475}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23993,7 +24147,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1392334701}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_pinky0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24026,7 +24180,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1396481339}
   - component: {fileID: 1396481340}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MetaQuestTouchPro_Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24082,7 +24236,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1396495121}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_finger_pad_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24113,7 +24267,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1396983690}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_palm_collider_base0_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24144,7 +24298,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1397177750}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_middle_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24175,7 +24329,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1409178631}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_middle_null
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24206,7 +24360,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1410016537}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_thumb0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24240,7 +24394,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1410408867}
   - component: {fileID: 1410408868}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandGrabVisual
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24285,7 +24439,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1414871431}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_middle2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24318,7 +24472,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1415216577}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_middle1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24352,7 +24506,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1426654152}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_ring_fingernail_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24383,7 +24537,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1427418938}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_grip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24414,7 +24568,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1429210547}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: prp00002questController_animrig:right_monterey_controller_rig
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24446,7 +24600,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1432567884}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_monterey_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24483,7 +24637,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1432609316}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_palm_collider_base1_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24514,7 +24668,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1440304868}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_thumb3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24553,7 +24707,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1442225376}
   - component: {fileID: 1442225377}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: oculus_controller_r_MeshX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24644,7 +24798,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1443331182}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24675,7 +24829,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1443481335}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_oculus_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24768,7 +24922,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1452447063}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_pinky_palm_collider_base1_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24801,7 +24955,7 @@ GameObject:
   - component: {fileID: 1455248615}
   - component: {fileID: 1455248617}
   - component: {fileID: 1455248616}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24882,7 +25036,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1455334254}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_dip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24913,7 +25067,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1458095834}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_fingernail_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24944,7 +25098,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1458962681}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_mcp_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24975,7 +25129,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1461424309}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25011,7 +25165,7 @@ GameObject:
   - component: {fileID: 1462364541}
   - component: {fileID: 1462364543}
   - component: {fileID: 1462364542}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: DistanceHandGrabInteractor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25141,7 +25295,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1465742369}
   - component: {fileID: 1465742370}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MetaQuestTouchPro_Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25197,7 +25351,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1469704050}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: RightHandAnchorDetached
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25228,7 +25382,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1471321120}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_fingernail_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25259,7 +25413,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1475436474}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_palm_collider_base1_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25290,7 +25444,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1477994344}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_finger_tip_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25322,7 +25476,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1479163447}
   - component: {fileID: 1479163448}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandFeaturesRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25368,7 +25522,7 @@ GameObject:
   - component: {fileID: 1481102812}
   - component: {fileID: 1481102814}
   - component: {fileID: 1481102813}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25451,7 +25605,7 @@ GameObject:
   - component: {fileID: 1484096313}
   - component: {fileID: 1484096312}
   - component: {fileID: 1484096311}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25516,7 +25670,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1489076804}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_thumb3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25551,7 +25705,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1492590711}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_finger_tip_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25582,7 +25736,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1495049936}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_middle_null
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25614,7 +25768,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1499725773}
   - component: {fileID: 1499725774}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: oculus_controller_l_MeshX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25705,7 +25859,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1501225600}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_mcp_aa_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25736,7 +25890,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1502490994}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_fingernail_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25767,7 +25921,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1504937787}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25798,7 +25952,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1506521991}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_index_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25829,7 +25983,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1507843162}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_finger_tip_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25860,7 +26014,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1510143950}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_b_trigger_grip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25891,7 +26045,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1512558835}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_thumb_cmc_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25922,7 +26076,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1515222592}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_mcp_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25955,7 +26109,7 @@ GameObject:
   - component: {fileID: 1515895269}
   - component: {fileID: 1515895271}
   - component: {fileID: 1515895270}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26037,7 +26191,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1517576940}
   - component: {fileID: 1517576941}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: CenterEyeOffset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26083,7 +26237,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1519266405}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_middle3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26118,7 +26272,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1524009101}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_finger_tip_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26149,7 +26303,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1527866085}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_b_trigger_front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26180,7 +26334,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1530164116}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_laser_begin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26212,7 +26366,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1534015370}
   - component: {fileID: 1534015369}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandGrabAPI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26257,7 +26411,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1534264780}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Visuals
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26293,7 +26447,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1536037909}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26324,7 +26478,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1536166695}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_b_trigger_grip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26356,7 +26510,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1536841743}
   - component: {fileID: 1536841744}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ControllerFeatures
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26401,7 +26555,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1538198016}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_index_pip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26432,7 +26586,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1542099623}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_thumb0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26465,7 +26619,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1543037407}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_pinky_null
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26496,7 +26650,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1545111619}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_grip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26529,7 +26683,7 @@ GameObject:
   - component: {fileID: 1550187928}
   - component: {fileID: 1550187930}
   - component: {fileID: 1550187929}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26610,7 +26764,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1550680595}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_cmc_aa_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26641,7 +26795,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1550771992}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_finger_tip_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26673,7 +26827,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1553662630}
   - component: {fileID: 1553662631}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OculusHand_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26727,7 +26881,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1553664147}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_thumbstick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26759,7 +26913,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1556360339}
   - component: {fileID: 1556360340}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MetaQuestTouchPlus_Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26815,7 +26969,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1559080309}
   - component: {fileID: 1559080310}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandGrabGlow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26872,7 +27026,7 @@ GameObject:
   - component: {fileID: 1561375727}
   - component: {fileID: 1561375729}
   - component: {fileID: 1561375728}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26953,7 +27107,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1563159331}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_grip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26986,7 +27140,7 @@ GameObject:
   - component: {fileID: 1567818317}
   - component: {fileID: 1567818319}
   - component: {fileID: 1567818318}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27067,7 +27221,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1574268611}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_finger_pad_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27098,7 +27252,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1574646269}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_palm_collider_base0_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27131,7 +27285,7 @@ GameObject:
   - component: {fileID: 1582831635}
   - component: {fileID: 1582831637}
   - component: {fileID: 1582831636}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27212,7 +27366,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1585559254}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_a
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27244,7 +27398,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1590387835}
   - component: {fileID: 1590387836}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_touch_controller_model_skel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27298,7 +27452,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1592744803}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_pinky_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27329,7 +27483,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1594158613}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_cmc_aa_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27360,7 +27514,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1594500308}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27391,7 +27545,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1594559511}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_mcp_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27505,7 +27659,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1596850428}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_oculus_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27543,7 +27697,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1597030146}
   - component: {fileID: 1597030145}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OVRHandDataSource
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27595,7 +27749,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1597350037}
   - component: {fileID: 1597350038}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: FilteredWristPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27649,7 +27803,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1598530146}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_index_mcp_aa_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27681,7 +27835,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1598995933}
   - component: {fileID: 1598995934}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_touch_mesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27773,7 +27927,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1600810407}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_ring3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27811,7 +27965,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1602226299}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_index_finger_tip_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27960,13 +28114,14 @@ Transform:
   m_GameObject: {fileID: 1604245613}
   serializedVersion: 2
   m_LocalRotation: {x: 0.25673777, y: -0.65883976, z: -0.2567268, w: 0.6588682}
-  m_LocalPosition: {x: 4.753, y: 1.674, z: 1.579}
-  m_LocalScale: {x: 0.055, y: 0.4, z: 0.25}
+  m_LocalPosition: {x: 5.342941, y: 0.43206096, z: 1.735392}
+  m_LocalScale: {x: 0.054999992, y: 0.40000004, z: 0.25}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2036739889}
   - {fileID: 1451661829}
-  m_Father: {fileID: 0}
+  - {fileID: 1861126910}
+  m_Father: {fileID: 544144796}
   m_LocalEulerAnglesHint: {x: 0.002, y: -89.998, z: -42.578}
 --- !u!1 &1609777672
 GameObject:
@@ -27977,7 +28132,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1609777673}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: prp00002questController_animrig:RIG_right_monterey_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28010,7 +28165,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1610789316}
   - component: {fileID: 1610789317}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ControllerFeatures
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28057,7 +28212,7 @@ GameObject:
   - component: {fileID: 1610975339}
   - component: {fileID: 1610975341}
   - component: {fileID: 1610975340}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28142,7 +28297,7 @@ GameObject:
   - component: {fileID: 1614873989}
   - component: {fileID: 1614873988}
   - component: {fileID: 1614873987}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandSphereMap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28258,7 +28413,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1617456904}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_ring3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28299,7 +28454,7 @@ GameObject:
   - component: {fileID: 1618154679}
   - component: {fileID: 1618154677}
   - component: {fileID: 1618154678}
-  m_Layer: 2
+  m_Layer: 7
   m_Name: PinchArea
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28383,7 +28538,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1618551178}
   - component: {fileID: 1618551177}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandGrabAPI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28428,7 +28583,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1619922538}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_finger_pad_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28459,7 +28614,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1625555580}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_fingernail_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28493,7 +28648,7 @@ GameObject:
   - component: {fileID: 1627509403}
   - component: {fileID: 1627509402}
   - component: {fileID: 1627509401}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ReticleMesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28617,7 +28772,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1629330607}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_mcp_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28648,7 +28803,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1632729381}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28679,7 +28834,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1634135278}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_b_thumbstick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28711,7 +28866,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1635425155}
   - component: {fileID: 1635425156}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: FilteredWristPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28766,7 +28921,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1640733962}
   - component: {fileID: 1640733963}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GripPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28814,7 +28969,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1641199239}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_pinky_null
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28845,7 +29000,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1641685776}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LeftControllerInHandAnchor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28877,7 +29032,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1644675826}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pasted__laser_end_pointer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28909,7 +29064,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1645228613}
   - component: {fileID: 1645228614}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_nub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28994,7 +29149,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1646873647}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_oculus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29027,7 +29182,7 @@ GameObject:
   - component: {fileID: 1647164668}
   - component: {fileID: 1647164670}
   - component: {fileID: 1647164669}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29110,7 +29265,7 @@ GameObject:
   - component: {fileID: 1648740598}
   - component: {fileID: 1648740600}
   - component: {fileID: 1648740599}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29193,7 +29348,7 @@ GameObject:
   - component: {fileID: 1648940625}
   - component: {fileID: 1648940627}
   - component: {fileID: 1648940626}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29274,7 +29429,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1651280248}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_pip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29305,7 +29460,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1651334680}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_grip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29340,7 +29495,7 @@ GameObject:
   - component: {fileID: 1656986633}
   - component: {fileID: 1656986636}
   - component: {fileID: 1656986635}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandGrabInteractor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29448,7 +29603,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1665683945}
   - component: {fileID: 1665683946}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GripPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29495,7 +29650,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1666268794}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_index_palm_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29526,7 +29681,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1669511625}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_wrist
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29589,7 +29744,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1670647125}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_palm_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29620,7 +29775,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1672664487}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_x
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29651,7 +29806,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1674094086}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_middle2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29687,7 +29842,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1677649190}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_b_thumbstick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29718,7 +29873,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1677919578}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_oculus_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29756,7 +29911,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1681370939}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OculusHand_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29789,7 +29944,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1683809686}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_stick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29821,7 +29976,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1685802548}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_thumb_fingernail_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29852,7 +30007,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1685920234}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29884,7 +30039,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1686169411}
   - component: {fileID: 1686169412}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MetaQuestTouchPro_Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29940,7 +30095,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1689123069}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_mcp_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29972,7 +30127,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1694818334}
   - component: {fileID: 1694818335}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OVRControllerVisual
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30017,7 +30172,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1696767494}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_oculus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30048,7 +30203,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1699643269}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: RightControllerInHandAnchor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30080,7 +30235,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1710166966}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_b_trigger_front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30111,7 +30266,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1710624001}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_fingernail_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30143,7 +30298,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1713273062}
   - component: {fileID: 1713273063}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandFrustumWide
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30190,7 +30345,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1713543095}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_b
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30221,7 +30376,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1723595942}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_pinky_palm_collider_base0_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30253,7 +30408,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1724757827}
   - component: {fileID: 1724757828}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HoverLocation
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30301,7 +30456,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1728633551}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_palm_center_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30332,7 +30487,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1730824739}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: prp00002questController_animrig:RIG_right_monterey_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30366,7 +30521,7 @@ GameObject:
   - component: {fileID: 1732534997}
   - component: {fileID: 1732534999}
   - component: {fileID: 1732534998}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_handMeshNode
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30487,7 +30642,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1734859664}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_index3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30525,7 +30680,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1734935084}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30556,7 +30711,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1743422297}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_dip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30589,7 +30744,7 @@ GameObject:
   - component: {fileID: 1745275495}
   - component: {fileID: 1745275497}
   - component: {fileID: 1745275496}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ISDK_SnapZone (Distance Cube - PItH)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30667,7 +30822,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1746865857}
   - component: {fileID: 1746865858}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: oculus_controller_r_MeshX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30758,7 +30913,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1751503583}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_laser_begin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30792,7 +30947,7 @@ GameObject:
   - component: {fileID: 1754564375}
   - component: {fileID: 1754564377}
   - component: {fileID: 1754564376}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30873,7 +31028,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1755640479}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: RightHandOnControllerAnchor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30905,7 +31060,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1756786080}
   - component: {fileID: 1756786081}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MetaQuestTouchPro_Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30961,7 +31116,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1759757873}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_forearm_stub
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -30992,7 +31147,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1762849084}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31023,7 +31178,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1764204871}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_x
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31054,7 +31209,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1768309900}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_thumbstick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31085,7 +31240,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1771036157}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Visuals
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31120,7 +31275,7 @@ GameObject:
   - component: {fileID: 1771077058}
   - component: {fileID: 1771077056}
   - component: {fileID: 1771077057}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31185,7 +31340,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1775296132}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_grip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31219,7 +31374,7 @@ GameObject:
   - component: {fileID: 1783271371}
   - component: {fileID: 1783271370}
   - component: {fileID: 1783271369}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: InteractorDebugVisual
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31318,7 +31473,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1788947523}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_middle3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31353,7 +31508,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1790716827}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_b
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31386,7 +31541,7 @@ GameObject:
   - component: {fileID: 1794916717}
   - component: {fileID: 1794916719}
   - component: {fileID: 1794916718}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: '[BuildingBlock] Synthetic Left Hand'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31609,7 +31764,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1798625590}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_pinky_null
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31640,7 +31795,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1799676418}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_finger_tip_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31674,7 +31829,7 @@ GameObject:
   - component: {fileID: 1804385792}
   - component: {fileID: 1804385791}
   - component: {fileID: 1804385790}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ReticleIcon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31774,7 +31929,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1806418571}
   - component: {fileID: 1806418570}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OVRControllerDataSource
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31823,7 +31978,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1814348949}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_finger_tip_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31854,7 +32009,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1816213363}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_thumb1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31889,7 +32044,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1816937411}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_stick_IGNORE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31920,7 +32075,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1818540947}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_pip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31951,7 +32106,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1822021830}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_thumb2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31986,7 +32141,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1823542952}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_finger_tip_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32017,7 +32172,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1824826042}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_a
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32050,7 +32205,7 @@ GameObject:
   - component: {fileID: 1827086456}
   - component: {fileID: 1827086455}
   - component: {fileID: 1827086454}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HeadFrustum
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32112,7 +32267,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1829479004}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_ring_mcp_aa_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32143,7 +32298,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1833306040}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_b_trigger_front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32174,7 +32329,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1835372492}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_thumb_cmc_aa_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32205,7 +32360,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1837057741}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_l_wrist
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32270,7 +32425,7 @@ GameObject:
   - component: {fileID: 1844095176}
   - component: {fileID: 1844095178}
   - component: {fileID: 1844095177}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32351,7 +32506,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1845182941}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_thumb_mcp_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32382,7 +32537,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1849498657}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_fingernail_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32414,7 +32569,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1853622095}
   - component: {fileID: 1853622096}
-  m_Layer: 2
+  m_Layer: 7
   m_Name: PinchPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32463,7 +32618,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1859111085}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_pip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32494,7 +32649,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1859656155}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_pip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32516,6 +32671,89 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2099190946}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1861126905
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1861126910}
+  - component: {fileID: 1861126909}
+  - component: {fileID: 1861126908}
+  m_Layer: 0
+  m_Name: Selected Cube
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!23 &1861126908
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1861126905}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 7a8e7dd5d0eb47c4ab2a352f7a9c9b57, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1861126909
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1861126905}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!4 &1861126910
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1861126905}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0.000000014901159, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.01, y: 1.01, z: 1.01}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 1604245618}
+  m_LocalEulerAnglesHint: {x: 0.002, y: -89.998, z: -42.578}
 --- !u!1 &1863105675
 GameObject:
   m_ObjectHideFlags: 0
@@ -32525,7 +32763,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1863105676}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_b
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32557,7 +32795,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1863212817}
   - component: {fileID: 1863212816}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandFeaturesLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32603,7 +32841,7 @@ GameObject:
   - component: {fileID: 1866184818}
   - component: {fileID: 1866184820}
   - component: {fileID: 1866184819}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32684,7 +32922,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1866429087}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_pinky2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32719,7 +32957,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1866464930}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_dip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32753,7 +32991,7 @@ GameObject:
   - component: {fileID: 1866892441}
   - component: {fileID: 1866892439}
   - component: {fileID: 1866892440}
-  m_Layer: 2
+  m_Layer: 7
   m_Name: PinchArea
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32837,7 +33075,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1867120200}
   - component: {fileID: 1867120201}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandWristPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32884,7 +33122,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1869734177}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_stick_IGNORE
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32916,7 +33154,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1870021991}
   - component: {fileID: 1870021992}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_touch_controller_model_skel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32972,7 +33210,7 @@ GameObject:
   - component: {fileID: 1870189684}
   - component: {fileID: 1870189686}
   - component: {fileID: 1870189685}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33053,7 +33291,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1881192851}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_thumbstick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33086,7 +33324,7 @@ GameObject:
   - component: {fileID: 1883951773}
   - component: {fileID: 1883951775}
   - component: {fileID: 1883951774}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: ISDK_SnapZone (Distance Cube - MIP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33163,7 +33401,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1887631418}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_palm_collider_base0_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33196,7 +33434,7 @@ GameObject:
   - component: {fileID: 1889166333}
   - component: {fileID: 1889166334}
   - component: {fileID: 1889166335}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LeftController
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33260,7 +33498,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1895353702}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_pip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33291,7 +33529,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1896983806}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_thumb_null
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33322,7 +33560,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1898280736}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Visuals
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33355,7 +33593,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1898834714}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33386,7 +33624,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1901735457}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_mcp_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33418,7 +33656,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1905494742}
   - component: {fileID: 1905494743}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_batteryIndicatorQuad_MeshX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33503,7 +33741,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1912828945}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_middle2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33541,7 +33779,7 @@ GameObject:
   - component: {fileID: 1914182619}
   - component: {fileID: 1914182621}
   - component: {fileID: 1914182620}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33622,7 +33860,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1915936775}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_pip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33653,7 +33891,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1917524056}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_mcp_aa_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33684,7 +33922,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1923481797}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Distance Cube - Grab relative to hand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33717,7 +33955,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1930524292}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_stick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33749,7 +33987,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1930993697}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_laser_begin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33780,7 +34018,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1931368140}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_index_null
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33814,7 +34052,7 @@ GameObject:
   - component: {fileID: 1932497740}
   - component: {fileID: 1932497739}
   - component: {fileID: 1932497738}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ControllerGrabLocation
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33909,7 +34147,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1936500832}
   - component: {fileID: 1936500833}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_controller_ply
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34000,7 +34238,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1939728069}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_finger_pad_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34031,7 +34269,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1942727698}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_b_thumbstick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34066,7 +34304,7 @@ GameObject:
   - component: {fileID: 1942765293}
   - component: {fileID: 1942765292}
   - component: {fileID: 1942765291}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Distance Cube - GRtH
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34197,7 +34435,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1943965010}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_dip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34228,7 +34466,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1944024545}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_b_button_oculus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34259,7 +34497,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1945621571}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OculusHand_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34343,7 +34581,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1949703705}
   - component: {fileID: 1949703706}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandWristOffsetFrustum
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34391,7 +34629,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1952125192}
   - component: {fileID: 1952125193}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: SnapInteractor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34406,9 +34644,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1952125191}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.25673777, y: -0.65883976, z: -0.2567268, w: 0.6588682}
-  m_LocalPosition: {x: 85.72727, y: 1.0025, z: 11.323999}
-  m_LocalScale: {x: 0.17259371, y: 1.2072461, z: 4.5454545}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1942765290}
@@ -34431,7 +34669,7 @@ MonoBehaviour:
   _maxIterationsPerFrame: 3
   _data: {fileID: 0}
   _pointableElement: {fileID: 1182266212}
-  _rigidbody: {fileID: 1604245614}
+  _rigidbody: {fileID: 1942765291}
   _distanceThreshold: 0.01
   _snapPoseTransform: {fileID: 0}
   _defaultInteractable: {fileID: 0}
@@ -34446,7 +34684,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1953389766}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_finger_pad_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34477,7 +34715,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1954429197}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_oculus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34508,7 +34746,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1956939045}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_touch_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34545,7 +34783,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1957420696}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_ring_palm_collider_base1_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34576,7 +34814,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1960760089}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_ring_finger_tip_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34607,7 +34845,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1964227997}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_monterey_controller_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34644,7 +34882,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1964303220}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_b_trigger_grip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34675,7 +34913,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1967429453}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34706,7 +34944,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1973640197}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_index_dip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34737,7 +34975,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1975760112}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34768,7 +35006,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1975895386}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_finger_pad_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34799,7 +35037,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1976461472}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_index_palm_collider_base1_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34830,7 +35068,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1986542117}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: prp00002questController_animrig:f_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34861,7 +35099,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1990932447}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pasted__laser_end_pointer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34894,7 +35132,7 @@ GameObject:
   - component: {fileID: 1991169006}
   - component: {fileID: 1991169008}
   - component: {fileID: 1991169007}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34975,7 +35213,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1991409093}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_thumb1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35012,7 +35250,7 @@ GameObject:
   - component: {fileID: 1991568453}
   - component: {fileID: 1991568455}
   - component: {fileID: 1991568454}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35095,7 +35333,7 @@ GameObject:
   - component: {fileID: 1992877503}
   - component: {fileID: 1992877502}
   - component: {fileID: 1992877501}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandDataRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35159,7 +35397,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1993729180}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_a
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35190,7 +35428,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1994399335}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_hold
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35221,7 +35459,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1995098317}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_thumbstick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35253,7 +35491,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1996872015}
   - component: {fileID: 1996872016}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandWristPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35301,7 +35539,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1997659527}
   - component: {fileID: 1997659528}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: right_touch_mesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35395,7 +35633,7 @@ GameObject:
   - component: {fileID: 2020453576}
   - component: {fileID: 2020453575}
   - component: {fileID: 2020453577}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GrabInteractor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35480,7 +35718,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2020561015}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_laser_begin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35511,7 +35749,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2020726244}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_pinky_fingernail_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35542,7 +35780,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2024658464}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_palm_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35573,7 +35811,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2030677779}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_palm_collider_base0_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35605,7 +35843,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2032328845}
   - component: {fileID: 2032328846}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: left_touch_mesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35697,7 +35935,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2032795841}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_oculus
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35728,7 +35966,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2034417641}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35759,7 +35997,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2034789897}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35790,7 +36028,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2036640880}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_middle_finger_pad_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35942,7 +36180,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2038234384}
   - component: {fileID: 2038234383}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandGrabAPI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35988,7 +36226,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2038482923}
   - component: {fileID: 2038482924}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: FilteredWristOffset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36046,7 +36284,7 @@ GameObject:
   - component: {fileID: 2039988694}
   - component: {fileID: 2039988696}
   - component: {fileID: 2039988695}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36128,7 +36366,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2049643607}
   - component: {fileID: 2049643608}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandGrabGlow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36184,7 +36422,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2051943386}
   - component: {fileID: 2051943385}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HandGrabAPI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36229,7 +36467,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2053036816}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36260,7 +36498,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2053103229}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_b
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36293,7 +36531,7 @@ GameObject:
   - component: {fileID: 2054663240}
   - component: {fileID: 2054663242}
   - component: {fileID: 2054663241}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36378,7 +36616,7 @@ GameObject:
   - component: {fileID: 2058719277}
   - component: {fileID: 2058719276}
   - component: {fileID: 2058719275}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: TouchHandGrabInteractor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36480,7 +36718,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2059626542}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: pasted__laser_end_pointer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36511,7 +36749,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2060627446}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_ring_palm_collider_base0_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36542,7 +36780,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2060718497}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_front
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36573,7 +36811,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2073715292}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: prp00002questController_animrig:f_world
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36604,7 +36842,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2074164634}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_fingernail_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36635,7 +36873,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2076852957}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_trigger_grip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36667,7 +36905,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2077462088}
   - component: {fileID: 2077462089}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: PinchPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36717,7 +36955,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2078651912}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: l_ring_palm_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36748,7 +36986,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2081115604}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_middle3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36786,7 +37024,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2089980768}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_ring1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36819,7 +37057,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2093433751}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_thumbstick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36851,7 +37089,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2094017632}
   - component: {fileID: 2094017631}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GripButtonSelector
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36899,7 +37137,7 @@ GameObject:
   - component: {fileID: 2094157354}
   - component: {fileID: 2094157356}
   - component: {fileID: 2094157355}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -36981,7 +37219,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2098238198}
   - component: {fileID: 2098238199}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: OculusTouchForQuest2RightModel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37036,7 +37274,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2099190946}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_index1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37070,7 +37308,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2099389402}
   - component: {fileID: 2099389403}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Wrist
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37201,7 +37439,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2101575828}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_thumb_cmc_aa_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37232,7 +37470,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2102036567}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_button_y
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37263,7 +37501,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2102253139}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_fingernail_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37294,7 +37532,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2104647629}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_stick
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37326,7 +37564,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2104802868}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: LeftHandOnControllerAnchor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37358,7 +37596,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2105753334}
   - component: {fileID: 2105753335}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_controller_ply
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37449,7 +37687,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2110696167}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_pip_fe_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37480,7 +37718,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2115500857}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_index_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37511,7 +37749,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2118905884}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: b_r_pinky3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37546,7 +37784,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2120582289}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_palm_collider_base1_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37578,7 +37816,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2123889678}
   - component: {fileID: 2123889677}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GripButtonSelector
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37626,7 +37864,7 @@ GameObject:
   - component: {fileID: 2124442987}
   - component: {fileID: 2124442989}
   - component: {fileID: 2124442988}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37707,7 +37945,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2129104352}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_middle_mcp_aa_axis_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37821,7 +38059,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2135982921}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: r_pinky_knuckle_marker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37853,7 +38091,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2140154678}
   - component: {fileID: 2140154679}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: CenterEyeOffset
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37901,7 +38139,7 @@ GameObject:
   - component: {fileID: 2147391351}
   - component: {fileID: 2147391353}
   - component: {fileID: 2147391352}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: '[BuildingBlock] Hand Interactions'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37964,7 +38202,7 @@ SceneRoots:
   - {fileID: 180932327}
   - {fileID: 1285046265}
   - {fileID: 1063730024}
-  - {fileID: 1604245618}
+  - {fileID: 544144796}
   - {fileID: 833527925}
   - {fileID: 1923481797}
   - {fileID: 835937512}
