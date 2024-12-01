@@ -102,20 +102,25 @@ public class FloatingSnapInteractable : SnapInteractable {
     // This would be the opposite of StartFloating()
     private void BreakSnap() {
         Debug.Log("Entered BreakSnap()");
+        _isFloating = false;
 
-        //_isFloating = false;
-        StartCoroutine(DelayResetting());
-        StopInteraction();
+        //StartCoroutine(DelayResetting());
 
-        _floatingObject.gameObject.GetComponent<Rigidbody>().isKinematic = false;
-        _floatingObject.gameObject.GetComponent<Rigidbody>().useGravity = true;
+        Rigidbody rb = _floatingObject.GetComponent<Rigidbody>();
+        if (rb != null) {
+            rb.isKinematic = false;
+            rb.useGravity = true;
+        }
 
+        _floatingObject = null;
+
+        /*
         FloatingSnapInteractor interactor = _floatingObject.GetComponentInChildren<FloatingSnapInteractor>();
         if (interactor != null) {
             interactor.IsFloating = false; // Re-enable interactions
             interactor.EnableGrabbing();
         }
-
+        */
         //StopInteraction();
     }
 
