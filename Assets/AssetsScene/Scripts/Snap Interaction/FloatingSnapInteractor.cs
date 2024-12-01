@@ -80,5 +80,9 @@ public class FloatingSnapInteractor : SnapInteractor {
         _currentInteractable = null; // Limpia la referencia
         Debug.Log($"{name} dejó de interactuar.");
     }
+
+    public void CallInteractableUnselected(SnapInteractable interactable) {
+        InteractableUnselected(interactable);
+    }
 }
 

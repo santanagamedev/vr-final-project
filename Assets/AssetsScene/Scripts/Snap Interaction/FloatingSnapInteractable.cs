@@ -22,6 +22,7 @@ public class FloatingSnapInteractable : SnapInteractable {
     private Transform _floatingObject;
 
     private float randomSpeed;
+    private bool enableSnappingAfterSnapCompleted = false;
 
     private FloatingSnapInteractor _currentInteractor;
     public InteractionTags interactableTag;
@@ -32,7 +33,7 @@ public class FloatingSnapInteractable : SnapInteractable {
     }
 
     public void StartFloating(Transform obj) {
-        _floatingObject = obj;
+        _floatingObject = obj;  // Aquí pasamos el cubo como tal
         _isFloating = true;
 
         randomSpeed = Random.Range(0.0f, 0.4f);
@@ -92,7 +93,12 @@ public class FloatingSnapInteractable : SnapInteractable {
             FloatingSnapInteractor interactor = _floatingObject.GetComponentInChildren<FloatingSnapInteractor>();
             if (interactor != null) {
                 interactor.IsFloating = false; // Re-enable interactions
-                interactor.EnableGrabbing();
+                if(enableSnappingAfterSnapCompleted) {
+                    interactor.EnableGrabbing();
+                    EnableSnapping();
+                } else {
+                    DisableSnapping();
+                }
             }
 
             Debug.Log($"Object {name} Snapped Completely!");
@@ -104,7 +110,8 @@ public class FloatingSnapInteractable : SnapInteractable {
         Debug.Log("Entered BreakSnap()");
         _isFloating = false;
 
-        //StartCoroutine(DelayResetting());
+        FloatingSnapInteractor interactor = _floatingObject.GetComponentInChildren<FloatingSnapInteractor>();
+        interactor.CallInteractableUnselected(this);
 
         Rigidbody rb = _floatingObject.GetComponent<Rigidbody>();
         if (rb != null) {
@@ -112,27 +119,18 @@ public class FloatingSnapInteractable : SnapInteractable {
             rb.useGravity = true;
         }
 
-        _floatingObject = null;
-
-        /*
-        FloatingSnapInteractor interactor = _floatingObject.GetComponentInChildren<FloatingSnapInteractor>();
         if (interactor != null) {
             interactor.IsFloating = false; // Re-enable interactions
             interactor.EnableGrabbing();
         }
-        */
-        //StopInteraction();
-    }
 
-    // Wait X seconds till book falls
-    private IEnumerator DelayResetting() {
-        Debug.Log("Coroutine started");
+        GameObject placeholder = transform.GetChild(0).gameObject;
+        placeholder.SetActive(true);
 
-        // Pause for 2 seconds
-        yield return new WaitForSeconds(resettingDelayTime);
+        StopInteraction();
+        _floatingObject = null;
 
-        Debug.Log($"Coroutine resumed after {resettingDelayTime} seconds");
-        _isFloating = false;
+        _failedPairing = false;
     }
 
     // Tal vez este ya no sea necesario
@@ -148,5 +146,32 @@ public class FloatingSnapInteractable : SnapInteractable {
     // Este debería llamarse desde el Interaction Manager
     public void SetPairedFailed(bool condition) {
         _failedPairing = condition;
+    }
+
+    /*
+    protected override void InteractorAdded(SnapInteractor interactor) {
+        base.InteractorAdded(interactor);
+        Debug.Log($"Interactor Added: {interactor.name}");
+    }
+
+    protected override void InteractorRemoved(SnapInteractor interactor) {
+        base.InteractorRemoved(interactor);
+        Debug.Log($"Interactor Removed: {interactor.name}");
+    }
+    */
+
+    protected override void InteractorAdded(SnapInteractor interactor) {
+        // Only proceed with base interaction logic if snapping is allowed
+        if (enableSnappingAfterSnapCompleted) {
+            base.InteractorAdded(interactor);
+        }
+    }
+
+    public void DisableSnapping() {
+        enableSnappingAfterSnapCompleted = false;
+    }
+
+    public void EnableSnapping() {
+        enableSnappingAfterSnapCompleted = true;
     }
 }
