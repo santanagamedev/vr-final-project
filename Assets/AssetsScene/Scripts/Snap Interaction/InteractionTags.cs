@@ -3,4 +3,5 @@ public enum InteractionTags {
     pair_B,
     pair_C,
     pair_D,
+    pair_E,
 }
