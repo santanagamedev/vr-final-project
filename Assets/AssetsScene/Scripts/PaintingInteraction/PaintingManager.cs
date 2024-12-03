@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PaintingManager : MonoBehaviour {
     [SerializeField] private List<PaintingRotation> paintings;
+    [SerializeField] private bool floatingState = false;
 
     private void Awake() {
         // Encuentra todas las paintings activas en la escena
@@ -11,7 +12,11 @@ public class PaintingManager : MonoBehaviour {
     }
 
     void Update() {
-        CheckPaintingStates();
+        AllSetFloating(floatingState);
+        
+        if (floatingState) {
+            CheckPaintingStates();
+        }
     }
 
     private void CheckPaintingStates() {
@@ -33,6 +38,12 @@ public class PaintingManager : MonoBehaviour {
 
         if (incorrectlyOriented.Count == 0) {
             Debug.Log("All paintings are correctly oriented.");
+        }
+    }
+
+    private void AllSetFloating(bool floatingState) {
+        foreach (var painting in paintings) {
+            painting.SetFloating(floatingState);
         }
     }
 }
