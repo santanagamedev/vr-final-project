@@ -1,0 +1,45 @@
+{
+    "name": "Controles",
+    "maps": [
+        {
+            "name": "MenuPausa",
+            "id": "98428a02-d70b-49e3-89b8-9d8b701ec50c",
+            "actions": [
+                {
+                    "name": "BotonPausa",
+                    "type": "Button",
+                    "id": "b34480fd-2950-41c5-85e7-db082cca1de7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "876d62ff-e821-451b-b1ad-5ae9dbf44c80",
+                    "path": "<OculusTouchController>/start",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "BotonPausa",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "25a7b829-0e35-4cbe-917f-276d612aad49",
+                    "path": "<Gamepad>/start",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "BotonPausa",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

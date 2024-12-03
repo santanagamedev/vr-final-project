@@ -1,58 +1,65 @@
 using System.Collections;
 using System.Collections.Generic;
+using Meta.XR.InputActions;
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using UnityEngine.InputSystem;
+
 
 public class GameManager : MonoBehaviour
 {
-    bool isPaused;
-    public Button salirButton;
-    void Start()
-    {
-        isPaused = false;
+    public GameObject pausaUI;
+    public bool activeUI = true;
 
-        if (salirButton != null)
+    private void Start() 
+    {
+        DisplayUI();
+    } 
+
+    //Funcion boton de pausa
+    public void PresionarBotonPausa(InputAction.CallbackContext context)
+    {
+        if (context.performed)
         {
-            // Asocia el evento de clic del botón con la función Salir
-            salirButton.onClick.AddListener(SalirDeLaAplicacion);
+            DisplayUI();
         }
     }
 
+    //Activar menu de pausa
+    public void DisplayUI()
+    {
+        if (activeUI)
+        {
+            pausaUI.SetActive(false);
+            activeUI = false;
+            Time.timeScale = 1;
+        }
+        else if (!activeUI)
+        {
+            pausaUI.SetActive(true);
+            activeUI = true;
+            Time.timeScale = 0;
+        }
+    }
     //Cambio de escena menu a principal
     public void Jugar()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 
-    //Pausar el juego
-    public void PauseGame()
-    {
-        isPaused = !isPaused;
-        if(isPaused)
-        {
-            Time.timeScale = 0;
-        }
-        else
-        {
-            Time.timeScale = 1;
-        }
-    }
-
     //Reiniciar el juego
-    public void Reiniciar ()
+    public void Reiniciar()
     {
         Time.timeScale = 1f;
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
     //Salir de la aplicacion
-    void SalirDeLaAplicacion()
+    public void Salir()
     {
-
-        Debug.Log("Saliendo de la aplicación");
         Application.Quit();
-
         #if UNITY_EDITOR
         UnityEditor.EditorApplication.isPlaying = false;
         #endif
