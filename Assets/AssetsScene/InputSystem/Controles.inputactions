@@ -37,6 +37,17 @@
                     "action": "BotonPausa",
                     "isComposite": false,
                     "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2c3d984f-e300-4c62-afa9-61b47566b72f",
+                    "path": "<Keyboard>/#(F)",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "BotonPausa",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         }
