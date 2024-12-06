@@ -1,4 +1,5 @@
 using Oculus.Interaction;
+using Oculus.Interaction.HandGrab;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -7,8 +8,10 @@ using UnityEngine;
 
 public class FloatingSnapInteractor : SnapInteractor {
     private DistanceGrabInteractable _distanceGrabInteractable; // Store the DistanceGrabInteraction component reference
+    private DistanceHandGrabInteractable _distanceHandGrabInteractable; 
     private FloatingSnapInteractable _currentInteractable;
 
+    [Header("Customs")]
     public InteractionTags interactorTag;
     public bool IsValidPair(InteractionTags interactableTag) {
         return interactorTag == interactableTag;  // Checks if both tags match
@@ -29,13 +32,15 @@ public class FloatingSnapInteractor : SnapInteractor {
             //Debug.Log($"{name} comenzó a interactuar con {floatingInteractable.name}");
 
             // Get the Grabbable component, if present, and disable it
-            _distanceGrabInteractable = GetComponent<DistanceGrabInteractable>();
+            //_distanceGrabInteractable = GetComponent<DistanceGrabInteractable>();
+            GetGrabbables();
+
+            // Disable grabbing temporarily
+            /*
             if (_distanceGrabInteractable != null) {
-                //Debug.LogWarning("distanceGrabInteraction FOUND.");
-                _distanceGrabInteractable.enabled = false; // Disable grabbing temporarily
-            } else {
-                //Debug.LogWarning("distanceGrabInteraction NOT found.");
-            }
+                _distanceGrabInteractable.enabled = false; 
+            } */
+            DisableGrabbing();
 
             Rigidbody rb = floatingInteractable.GetComponent<Rigidbody>();
             if (rb != null) {
@@ -60,12 +65,32 @@ public class FloatingSnapInteractor : SnapInteractor {
         base.Drive();
     }
 
+    private void GetGrabbables() {
+        _distanceGrabInteractable = GetComponent<DistanceGrabInteractable>();
+        _distanceHandGrabInteractable = GetComponent<DistanceHandGrabInteractable>();
+    }
+
+    public void DisableGrabbing() {
+        GetGrabbables();
+
+        if (_distanceGrabInteractable != null) {
+            _distanceGrabInteractable.enabled = false;
+        }
+        if (_distanceHandGrabInteractable != null) {
+            _distanceHandGrabInteractable.enabled = false;
+        }
+    }
+
     // Optionally, re-enable the Grabbable component if necessary
     public void EnableGrabbing() {
         if (_distanceGrabInteractable != null) {
             _distanceGrabInteractable.enabled = true;
         }
+        if (_distanceHandGrabInteractable != null) {
+            _distanceHandGrabInteractable.enabled = true;
+        }
     }
+
 
     public bool HasValidInteraction() {
         return _currentInteractable != null; // Devuelve true si está emparejado
@@ -83,6 +108,19 @@ public class FloatingSnapInteractor : SnapInteractor {
 
     public void CallInteractableUnselected(SnapInteractable interactable) {
         InteractableUnselected(interactable);
+    }
+
+    public void PushBook(float pushForce) {
+        //Rigidbody rb = interactor.GetComponentInParent<Rigidbody>();
+        Rigidbody rb = transform.GetComponent<Rigidbody>();
+
+        if (rb != null) {
+            Debug.LogWarning("Book pushed.");
+            rb.AddForce(Vector3.left * pushForce, ForceMode.Impulse);
+        } else {
+            Debug.LogWarning("Book Rigidbody NOT FOUND .");
+        }
+        
     }
 }
 

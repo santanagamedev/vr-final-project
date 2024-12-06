@@ -9,10 +9,41 @@ public class InteractionManager : MonoBehaviour {
     [SerializeField] private FloatingSnapInteractor[] interactors;
     [SerializeField] private FloatingSnapInteractable[] interactables;
 
+    private bool isPuzzleActivated = false;
+    [SerializeField] private float pushForce = 5.0f;
+
+    [SerializeField] private bool generalPuzzleActivator = false;
+
     private void Awake() {
         // Encuentra todos los interactores e interactables dinámicamente
         interactors = FindObjectsOfType<FloatingSnapInteractor>();
         interactables = FindObjectsOfType<FloatingSnapInteractable>();
+    }
+
+    private void Start() {
+        // Deactivate all DistanceGrabbables and DistanceHandGrabbables
+        DeactivateInteractors();
+        StopAllParticles();
+
+        //ActivateInteractables();
+    }
+
+    private void DeactivateInteractors() {
+        foreach (var interactor in interactors) {
+            interactor.DisableGrabbing();
+            Debug.LogWarning("Interactor grabbing Disabled. -------------");
+        }
+    }
+
+    private void StopAllParticles() {
+        foreach(var interactable in interactables) { 
+            interactable.StopParticles();
+        }
+    }
+    private void PlayAllParticles() {
+        foreach(var interactable in interactables) { 
+            interactable.PlayParticles();
+        }
     }
 
     private void Update() {
@@ -22,7 +53,9 @@ public class InteractionManager : MonoBehaviour {
             CheckAllPairings();
         }
 
-        //CheckAllInteractions();
+        if (generalPuzzleActivator) {
+            ActivatePuzzle();
+        }
     }
 
     private bool AllPaired() {
@@ -71,7 +104,8 @@ public class InteractionManager : MonoBehaviour {
         } else {
             Debug.LogWarning("Not all pairs match. Trigger failure behavior.");
             foreach (var interactable in interactables) {
-                interactable.SetPairedFailed(true); 
+                interactable.BreakSnap();
+                //interactable.SetPairedFailed(true); 
             }
         }
 
@@ -101,6 +135,34 @@ public class InteractionManager : MonoBehaviour {
         }
         */
 
+    }
+
+    private void ActivatePuzzle() {
+        //isPuzzleActivated = true;
+
+        PushBooks();
+        ActivateInteractors();
+        PlayAllParticles();
+        //ActivateInteractables();
+
+        generalPuzzleActivator = false;
+    }
+
+    private void ActivateInteractors() {
+        foreach (var interactor in interactors) {
+            interactor.EnableGrabbing();
+            Debug.LogWarning("Interactor grabbing Enabled. -------------");
+        }
+    }
+
+    private void PushBooks() {
+        foreach (var interactor in interactors) {
+            Rigidbody rb = interactor.GetComponentInParent<Rigidbody>();
+            if (rb != null) {
+                //Debug.LogWarning("Books pushed.");
+                rb.AddForce(Vector3.left * pushForce, ForceMode.Impulse);
+            }
+        }
     }
 
 }

@@ -1,3 +1,4 @@
+using Meta.WitAi.Events;
 using Oculus.Interaction;
 using System.Collections;
 using System.Collections.Generic;
@@ -6,19 +7,17 @@ using UnityEngine;
 // Script de los EMPTY SPACES
 
 public class FloatingSnapInteractable : SnapInteractable {
-    [SerializeField]
     private Transform _floatingTarget; // Intermediate floating position
-    [SerializeField]
     private float _floatingSpeed = 2f; // Speed for floating
-    [SerializeField]
-    private bool _conditionMet = false; // Condition to complete snapping
-    [SerializeField]
-    private bool _failedPairing = false; // Condition to complete snapping
+    [Header("Customs")]
+    [SerializeField] private bool _conditionMet = false; // Condition to complete snapping
+    [SerializeField] private bool _failedPairing = false; // Condition to complete snapping
+    [SerializeField] private float breakPushForce = 5.0f;
 
-    [SerializeField] private float floatingAmplitude = 0.08f;
-    [SerializeField] private float resettingDelayTime = 2.0f;
+    private float floatingAmplitude = 0.08f;
+    //[SerializeField] private float resettingDelayTime = 2.0f;
 
-    [SerializeField] private bool _isFloating = false;
+    private bool _isFloating = false;
     private Transform _floatingObject;
 
     private float randomSpeed;
@@ -33,7 +32,7 @@ public class FloatingSnapInteractable : SnapInteractable {
     }
 
     public void StartFloating(Transform obj) {
-        _floatingObject = obj;  // Aquí pasamos el cubo como tal
+        _floatingObject = obj;  // Aquí pasamos el cubo como tal (padre)
         _isFloating = true;
 
         randomSpeed = Random.Range(0.0f, 0.4f);
@@ -79,8 +78,12 @@ public class FloatingSnapInteractable : SnapInteractable {
         _isFloating = false;
 
         if (PoseForInteractor(null, out Pose finalPose)) {
-            GameObject placeholder = transform.GetChild(0).gameObject;
-            placeholder.SetActive(false);
+            /*
+            GameObject particleSystem = transform.GetChild(0).gameObject;
+            //particleSystem.SetActive(false);
+            particleSystem.GetComponent<ParticleSystem>().Stop();
+            */
+            StopParticles();
 
             _floatingObject.rotation = finalPose.rotation;
             //_floatingObject.position = finalPose.position;
@@ -106,12 +109,13 @@ public class FloatingSnapInteractable : SnapInteractable {
     }
 
     // This would be the opposite of StartFloating()
-    private void BreakSnap() {
+    public void BreakSnap() {
         Debug.Log("Entered BreakSnap()");
         _isFloating = false;
 
-        FloatingSnapInteractor interactor = _floatingObject.GetComponentInChildren<FloatingSnapInteractor>();
-        interactor.CallInteractableUnselected(this);
+        //FloatingSnapInteractor interactor = _floatingObject.GetComponentInChildren<FloatingSnapInteractor>();
+        //interactor.CallInteractableUnselected(this);
+        _currentInteractor.CallInteractableUnselected(this);
 
         Rigidbody rb = _floatingObject.GetComponent<Rigidbody>();
         if (rb != null) {
@@ -119,13 +123,24 @@ public class FloatingSnapInteractable : SnapInteractable {
             rb.useGravity = true;
         }
 
-        if (interactor != null) {
+        /*if (interactor != null) {
             interactor.IsFloating = false; // Re-enable interactions
             interactor.EnableGrabbing();
+        }*/
+        if (_currentInteractor != null) {
+            _currentInteractor.IsFloating = false; // Re-enable interactions
+            _currentInteractor.EnableGrabbing();
         }
+        /*
+        GameObject particleSystem = transform.GetChild(0).gameObject;
+        //particleSystem.SetActive(true);
+        particleSystem.GetComponent<ParticleSystem>().Play();
+        */
+        PlayParticles();
 
-        GameObject placeholder = transform.GetChild(0).gameObject;
-        placeholder.SetActive(true);
+        // push books again
+        //_floatingObject.PushBook(breakPushForce);
+        _floatingObject.GetComponent<Rigidbody>().AddForce(Vector3.left * breakPushForce, ForceMode.Impulse);        
 
         StopInteraction();
         _floatingObject = null;
@@ -173,5 +188,12 @@ public class FloatingSnapInteractable : SnapInteractable {
 
     public void EnableSnapping() {
         enableSnappingAfterSnapCompleted = true;
+    }
+
+    public void StopParticles() {
+        transform.GetChild(0).GetComponent<ParticleSystem>().Stop();
+    }
+    public void PlayParticles() {
+        transform.GetChild(0).GetComponent<ParticleSystem>().Play();
     }
 }
