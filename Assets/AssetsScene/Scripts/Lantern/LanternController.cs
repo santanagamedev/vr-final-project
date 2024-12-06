@@ -21,6 +21,7 @@ public class LanternController : MonoBehaviour {
             Transform lanternGlassOFF = lanternInteractable.transform.parent.Find(GLASSLIGHT_OFF);
             Transform lanternGlassON = lanternInteractable.transform.parent.Find(GLASSLIGHT_ON);
 
+            // Switch light when A or X are pressed
             if (OVRInput.GetDown(OVRInput.Button.One) || OVRInput.GetDown(OVRInput.Button.Three)) {
                 Debug.LogWarning("Button A pressed.");
                 isLightOn = !isLightOn;
