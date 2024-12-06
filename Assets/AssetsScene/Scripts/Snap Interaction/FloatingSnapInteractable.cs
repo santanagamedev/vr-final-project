@@ -7,17 +7,16 @@ using UnityEngine;
 // Script de los EMPTY SPACES
 
 public class FloatingSnapInteractable : SnapInteractable {
-    private Transform _floatingTarget; // Intermediate floating position
-    private float _floatingSpeed = 2f; // Speed for floating
-    [Header("Customs")]
+    [SerializeField] private Transform _floatingTarget; // Intermediate floating position
+    [SerializeField] private float _floatingSpeed = 2f; // Speed for floating
     [SerializeField] private bool _conditionMet = false; // Condition to complete snapping
     [SerializeField] private bool _failedPairing = false; // Condition to complete snapping
     [SerializeField] private float breakPushForce = 5.0f;
 
-    private float floatingAmplitude = 0.08f;
-    //[SerializeField] private float resettingDelayTime = 2.0f;
+    [SerializeField] private float floatingAmplitude = 0.08f;
+    [SerializeField] private float resettingDelayTime = 2.0f;
 
-    private bool _isFloating = false;
+    [SerializeField] private bool _isFloating = false;
     private Transform _floatingObject;
 
     private float randomSpeed;
