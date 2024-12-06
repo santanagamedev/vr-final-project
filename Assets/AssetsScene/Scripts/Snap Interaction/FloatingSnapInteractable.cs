@@ -7,6 +7,7 @@ using UnityEngine;
 // Script de los EMPTY SPACES
 
 public class FloatingSnapInteractable : SnapInteractable {
+    [Header("Customs")]
     [SerializeField] private Transform _floatingTarget; // Intermediate floating position
     [SerializeField] private float _floatingSpeed = 2f; // Speed for floating
     [SerializeField] private bool _conditionMet = false; // Condition to complete snapping
