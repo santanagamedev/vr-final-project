@@ -12,10 +12,11 @@ public class InteractionManager : MonoBehaviour {
     private bool isPuzzleActivated = false;
     [SerializeField] private float pushForce = 5.0f;
 
-    [SerializeField] private bool generalPuzzleActivator = false;
+    public bool generalPuzzleActivator = false;
+    public GameObject puzzleBox;
 
     private void Awake() {
-        // Encuentra todos los interactores e interactables dinámicamente
+        // Encuentra todos los interactores e interactables dinï¿½micamente
         interactors = FindObjectsOfType<FloatingSnapInteractor>();
         interactables = FindObjectsOfType<FloatingSnapInteractable>();
     }
@@ -26,6 +27,8 @@ public class InteractionManager : MonoBehaviour {
         StopAllParticles();
 
         //ActivateInteractables();
+
+        puzzleBox.SetActive(false);
     }
 
     private void DeactivateInteractors() {
@@ -48,8 +51,8 @@ public class InteractionManager : MonoBehaviour {
 
     private void Update() {
         if (AllPaired()) {
-            Debug.Log("¡Todos los interactors están emparejados con interactables!");
-
+            Debug.Log("ï¿½Todos los interactors estï¿½n emparejados con interactables!");
+            puzzleBox.SetActive(true);
             CheckAllPairings();
         }
 
@@ -62,17 +65,17 @@ public class InteractionManager : MonoBehaviour {
         // Verifica que cada interactor tenga un interactable y viceversa
         foreach (var interactor in interactors) {
             if (!interactor.HasValidInteraction()) {
-                return false; // Un interactor no está emparejado
+                return false; // Un interactor no estï¿½ emparejado
             }
         }
 
         foreach (var interactable in interactables) {
             if (!interactable.HasInteractor()) {
-                return false; // Un interactable no está emparejado
+                return false; // Un interactable no estï¿½ emparejado
             }
         }
 
-        return true; // Todos están emparejados
+        return true; // Todos estï¿½n emparejados
     }
 
     private void CheckAllPairings() {
@@ -96,6 +99,8 @@ public class InteractionManager : MonoBehaviour {
         }
 
         if (allPairsMatch) {
+            
+            
             Debug.Log("All pairs match. Trigger success behavior.");
             foreach (var interactable in interactables) { 
                 interactable.SetConditionMet(true);

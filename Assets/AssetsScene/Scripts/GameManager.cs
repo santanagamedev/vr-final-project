@@ -46,7 +46,7 @@ public class GameManager : MonoBehaviour
     //Cambio de escena menu a principal
     public void Jugar()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene(1);
     }
 
     //Reiniciar el juego

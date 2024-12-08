@@ -49,8 +49,8 @@ public class FadingScript : MonoBehaviour
             yield return null;
         }
         cg.alpha = end;
-        yield return new WaitForSeconds(10);
-        SceneManager.LoadScene("Environment");  
+        yield return new WaitForSeconds(7);
+        SceneManager.LoadScene(2);  
         
        
     }
