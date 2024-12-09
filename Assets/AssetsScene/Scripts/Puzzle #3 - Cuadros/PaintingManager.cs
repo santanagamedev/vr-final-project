@@ -9,15 +9,11 @@ public class PaintingManager : MonoBehaviour {
     [SerializeField] private Transform ceiling;
     private bool ceilingMoved = false;
 
-    [SerializeField] private GameObject paintingsParent;
+    //[SerializeField] private GameObject paintingsParent;
 
     private void Awake() {
         // Encuentra todas las paintings activas en la escena
         paintings = new List<PaintingRotation>(FindObjectsOfType<PaintingRotation>());
-    }
-
-    private void Start() { 
-        paintingsParent.SetActive(false);
     }
 
     void Update() {
@@ -58,8 +54,6 @@ public class PaintingManager : MonoBehaviour {
 
     private void AllSetFloating(bool floatingState) {
         foreach (var painting in paintings) {
-            paintingsParent.SetActive(true);
-
             painting.SetFloating(floatingState);
         }
     }
