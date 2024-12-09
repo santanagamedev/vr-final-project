@@ -1,62 +1,57 @@
 using UnityEngine.XR;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 
 public class WalkSound : MonoBehaviour
 {
-    public AudioClip stepSound;
-    private AudioSource audioSource; 
-    private XRNode inputSource = XRNode.LeftHand; 
-    private InputDevice device;
+    public AudioClip movingSound;  // Clip de sonido que se reproducirá en loop
+    public float movementThreshold = 0f;  // Umbral de movimiento para detectar si el jugador se está moviendo
+
+    private AudioSource audioSource;
     private Vector3 lastPosition;
-    private float moveThreshold = 0.1f; 
-    private bool isWalking = false;
 
     void Start()
     {
-        device = InputDevices.GetDeviceAtXRNode(inputSource);
+        // Inicializamos el AudioSource
+        audioSource = GetComponent<AudioSource>();
+        if (audioSource == null)
+        {
+            audioSource = gameObject.AddComponent<AudioSource>();
+        }
+
+        // Configuramos el AudioSource para que se repita (loop) y no se reproduzca automáticamente
+        audioSource.loop = true;
+        audioSource.clip = movingSound;
+        audioSource.playOnAwake = false; // No se reproduce inmediatamente al iniciar
+
+        // Guardamos la posición inicial del jugador
         lastPosition = transform.position;
     }
 
     void Update()
     {
+        // Verificamos el movimiento comparando la posición actual con la anterior
+        float distanceMoved = Vector3.Distance(lastPosition, transform.position);
 
-        if (!device.isValid)
+        if (distanceMoved > movementThreshold)
         {
-            return;
+            // Si el jugador se mueve, aseguramos que el sonido esté en loop y se reproduzca
+            if (!audioSource.isPlaying)
+            {
+                audioSource.Play();
+            }
+        }
+        else
+        {
+            // Si el jugador no se mueve, detenemos el sonido
+            if (audioSource.isPlaying)
+            {
+                audioSource.Stop();
+            }
         }
 
-        float distance = Vector3.Distance(lastPosition, transform.position);
-        
-
-        if (distance > moveThreshold && !isWalking)
-        {
-            PlayWalkingSound();
-            isWalking = true;
-        }
-        else if (isWalking)
-        {
-            StopWalkingSound();
-            isWalking = false;
-        }
-
-        lastPosition = transform.position; 
-    }
-
-    private void PlayWalkingSound()
-    {
-        if (!audioSource.isPlaying)
-        {
-            audioSource.clip = stepSound;
-            audioSource.Play();
-        }
-    }
-
-    private void StopWalkingSound()
-    {
-        if (audioSource.isPlaying)
-        {
-            audioSource.Stop();
-        }
+        // Actualizamos la posición para el siguiente frame
+        lastPosition = transform.position;
     }
 }
