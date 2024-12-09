@@ -19,12 +19,12 @@ public class AudioManager : MonoBehaviour
     //Reproduciccion de Dialogos
     public void PlayDialogo1()
     {
-        sfx.PlayOneShot(dialogoPuzzle1, 0.06f);
+        sfx.PlayOneShot(dialogoPuzzle1, 0.3f);
     }
 
     public void PlayDialogo2()
     {
-        sfx.PlayOneShot(dialogoPuzzle2, 0.06f);
+        sfx.PlayOneShot(dialogoPuzzle2, 0.3f);
     }
 
     //Sonidos de estado de botones
