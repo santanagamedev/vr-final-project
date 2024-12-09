@@ -6,16 +6,34 @@ public class LettertActivator : MonoBehaviour
 {
     Animator animator;
     AudioSource clip;
+
+    private bool isLetterActivated = false;
+
     private void Start() {
         animator = GetComponent<Animator>();
         clip = GetComponent<AudioSource>();
     }
     private void OnTriggerEnter(Collider other) {
-        if (other.gameObject.CompareTag("Player"))
-        {
-            animator.SetBool("PlayerOnRange", true);    
-            gameObject.GetComponent<Collider>().enabled = false;
-            clip.PlayOneShot(clip.clip);
+        if (!isLetterActivated) {
+            if (other.gameObject.CompareTag("Player")) {
+                animator.SetBool("PlayerOnRange", true);
+                gameObject.GetComponent<Collider>().enabled = false;
+                clip.PlayOneShot(clip.clip);
+
+                isLetterActivated = true;
+            }
+        }
+    }
+
+    private void OnTriggerStay(Collider other) {
+        if (!isLetterActivated) {
+            if (other.gameObject.CompareTag("Player")) {
+                animator.SetBool("PlayerOnRange", true);
+                gameObject.GetComponent<Collider>().enabled = false;
+                clip.PlayOneShot(clip.clip);
+
+                isLetterActivated = true;
+            }
         }
     }
 }
