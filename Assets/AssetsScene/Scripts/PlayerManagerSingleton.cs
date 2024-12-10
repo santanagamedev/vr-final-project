@@ -6,8 +6,8 @@ public class PlayerManagerSingleton : MonoBehaviour {
     public static PlayerManagerSingleton Instance { get; private set; }
 
     public enum LocomotionMode { Teleport, Immersive }
-    //public LocomotionMode SelectedMode { get; private set; } = LocomotionMode.Immersive; // Default mode
-    public LocomotionMode SelectedMode { get; private set; } = LocomotionMode.Teleport; // Default mode
+    public LocomotionMode SelectedMode { get; private set; } = LocomotionMode.Immersive; // Default mode
+    //public LocomotionMode SelectedMode { get; private set; } = LocomotionMode.Teleport; // Default mode
 
     public OVRPlayerController PlayerController { get; private set; }
     public OVRCameraRig InicioPlayerController { get; private set; }
