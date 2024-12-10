@@ -8,15 +8,14 @@ public class PuzzleRelicController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+      //Debug.Log(respawns[0].GetComponent<>.)  
     }
     void SearchRelicOn()
     {
         
     }
     // Update is called once per frame
-    void Update()
-    {
+    private void FixedUpdate() {
         
     }
 }
