@@ -11,6 +11,7 @@ using UnityEngine.InputSystem;
 public class GameManager : MonoBehaviour
 {
     public GameObject pausaUI;
+    public GameObject CanvasLibros;
     public bool activeUI = true;
 
     private void Start() 
@@ -43,6 +44,22 @@ public class GameManager : MonoBehaviour
             Time.timeScale = 0;
         }
     }
+
+    //Canvas al entrar en zona de investigacion
+    public void CanvasInvestigar()
+    {
+        if (activeUI)
+        {
+            CanvasLibros.SetActive(false);
+            activeUI = false;
+        }
+        else if (!activeUI)
+        {
+            CanvasLibros.SetActive(true);
+            activeUI = true;
+        }
+    }
+
     //Cambio de escena menu a principal
     public void Jugar()
     {
