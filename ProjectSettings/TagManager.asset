@@ -5,8 +5,6 @@ TagManager:
   serializedVersion: 2
   tags:
   - Relic
-  - Dialogo2
-  - Dialogo1
   layers:
   - Default
   - TransparentFX
@@ -18,7 +16,7 @@ TagManager:
   - Player
   - Hide
   - Interactable
-  - Props
+  - 
   - 
   - 
   - 
