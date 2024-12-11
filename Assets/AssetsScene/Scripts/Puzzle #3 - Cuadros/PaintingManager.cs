@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class PaintingManager : MonoBehaviour {
     [SerializeField] private List<PaintingRotation> paintings;
-    [SerializeField] private bool floatingState = false;
+    public bool floatingState = false;
 
     [SerializeField] private Transform ceiling;
     private bool ceilingMoved = false;
@@ -16,7 +16,7 @@ public class PaintingManager : MonoBehaviour {
     public bool playAudio = false;
     float intervalPlayVoices = 30.0f;
     private Coroutine audioCoroutine;
-    PuzzleRelicController secondPuzzel;
+    //PuzzleRelicController secondPuzzel;
 
     public static event Action OnPuzzelSolved;
 
@@ -48,12 +48,12 @@ public class PaintingManager : MonoBehaviour {
 
     private void Start() {
         audioSource = GameObject.Find("AudioPuzzel03").GetComponent<AudioSource>();
-        secondPuzzel = GameObject.Find("PuzzleController").GetComponent<PuzzleRelicController>();
+        //secondPuzzel = GameObject.Find("PuzzleController").GetComponent<PuzzleRelicController>();
     }
     void Update() {
-        if (!ceilingMoved) AllSetFloating(secondPuzzel.secondPuzzleSolved);
+        if (!ceilingMoved) AllSetFloating(floatingState);
         
-        if (secondPuzzel.secondPuzzleSolved) {
+        if (floatingState) {
             if (!ceilingMoved) MoveCeilingUp();
             playAudio = true;
             CheckPaintingStates();
@@ -95,7 +95,7 @@ public class PaintingManager : MonoBehaviour {
         if (incorrectlyOriented.Count == 0) {
             Debug.Log("All paintings are correctly oriented.");
             floatingState = false;
-            AllSetFloating(secondPuzzel.secondPuzzleSolved);
+            AllSetFloating(floatingState);
             
             // Se abre la puerta que lleva al maestro
             SolvePuzzle();

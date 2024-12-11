@@ -2515,6 +2515,51 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4770301006583257577, guid: 8005b8a4e86e15e45b3c3e5a6c34b65a,
+        type: 3}
+      propertyPath: puzzelPaintings
+      value: 
+      objectReference: {fileID: 1956635326}
+    - target: {fileID: 4787090050025918193, guid: 8005b8a4e86e15e45b3c3e5a6c34b65a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.123
+      objectReference: {fileID: 0}
+    - target: {fileID: 4787090050025918193, guid: 8005b8a4e86e15e45b3c3e5a6c34b65a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.688
+      objectReference: {fileID: 0}
+    - target: {fileID: 4943436623680903128, guid: 8005b8a4e86e15e45b3c3e5a6c34b65a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.008
+      objectReference: {fileID: 0}
+    - target: {fileID: 4943436623680903128, guid: 8005b8a4e86e15e45b3c3e5a6c34b65a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.002
+      objectReference: {fileID: 0}
+    - target: {fileID: 4943436623680903128, guid: 8005b8a4e86e15e45b3c3e5a6c34b65a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6302542012920760591, guid: 8005b8a4e86e15e45b3c3e5a6c34b65a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.752
+      objectReference: {fileID: 0}
+    - target: {fileID: 6302542012920760591, guid: 8005b8a4e86e15e45b3c3e5a6c34b65a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.032
+      objectReference: {fileID: 0}
+    - target: {fileID: 6302542012920760591, guid: 8005b8a4e86e15e45b3c3e5a6c34b65a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.806
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8842,7 +8887,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &940898714
 Transform:
   m_ObjectHideFlags: 0
@@ -21613,7 +21658,12 @@ PrefabInstance:
     - target: {fileID: 3957764212768450678, guid: ea61516db8cc2be4785464c78c488430,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5534640320983330171, guid: ea61516db8cc2be4785464c78c488430,
+        type: 3}
+      propertyPath: m_Intensity
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8080144571511733453, guid: ea61516db8cc2be4785464c78c488430,
         type: 3}
@@ -28285,6 +28335,12 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2009929344}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1956635326 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8987464702384185039, guid: d24d1cceb4d0de6408d7bb9d1aa3db88,
+    type: 3}
+  m_PrefabInstance: {fileID: 691610165}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1962779433
 GameObject:
   m_ObjectHideFlags: 0
