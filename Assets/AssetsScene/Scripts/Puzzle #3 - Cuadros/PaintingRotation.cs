@@ -39,7 +39,7 @@ public class PaintingRotation : MonoBehaviour {
         float currentYRotation = transform.rotation.eulerAngles.y;
         float relativeAngle = Mathf.DeltaAngle(initialRotation, currentYRotation); // Calculate the relative angle
 
-        Debug.Log($"{name}: Relative Angle = {relativeAngle}");
+        //Debug.Log($"{name}: Relative Angle = {relativeAngle}");
 
         // Check if the relative angle is within the range
         //if (relativeAngle >= minRelativeAngle && relativeAngle <= maxRelativeAngle) {
