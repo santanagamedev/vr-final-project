@@ -9,6 +9,7 @@ public class PuzzleRelicController : MonoBehaviour
      public GameObject[] respawns;
     // Start is called before the first frame update
     private bool stateRelic1, stateRelic2, stateRelic3;
+    public bool secondPuzzleSolved = false;
     void Start()
     {
       
@@ -31,6 +32,7 @@ public class PuzzleRelicController : MonoBehaviour
         if (!stateRelic1 && !stateRelic2 && !stateRelic3)
         {
             Debug.Log("las reliquias estan en las posiciones correctas");
+            secondPuzzleSolved = true;
         }
     }
 }

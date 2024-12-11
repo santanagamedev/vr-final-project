@@ -14,8 +14,9 @@ public class PaintingManager : MonoBehaviour {
     [Header("Audio")]
     public AudioSource audioSource;
     public bool playAudio = false;
-    float intervalPlayVoices = 10.0f;
+    float intervalPlayVoices = 30.0f;
     private Coroutine audioCoroutine;
+    PuzzleRelicController secondPuzzel;
 
     public static event Action OnPuzzelSolved;
 
@@ -47,11 +48,12 @@ public class PaintingManager : MonoBehaviour {
 
     private void Start() {
         audioSource = GameObject.Find("AudioPuzzel03").GetComponent<AudioSource>();
+        secondPuzzel = GameObject.Find("PuzzleController").GetComponent<PuzzleRelicController>();
     }
     void Update() {
-        if (!ceilingMoved) AllSetFloating(floatingState);
+        if (!ceilingMoved) AllSetFloating(secondPuzzel.secondPuzzleSolved);
         
-        if (floatingState) {
+        if (secondPuzzel.secondPuzzleSolved) {
             if (!ceilingMoved) MoveCeilingUp();
             playAudio = true;
             CheckPaintingStates();
@@ -93,7 +95,7 @@ public class PaintingManager : MonoBehaviour {
         if (incorrectlyOriented.Count == 0) {
             Debug.Log("All paintings are correctly oriented.");
             floatingState = false;
-            AllSetFloating(floatingState);
+            AllSetFloating(secondPuzzel.secondPuzzleSolved);
             
             // Se abre la puerta que lleva al maestro
             SolvePuzzle();
