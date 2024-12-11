@@ -932,12 +932,12 @@ PrefabInstance:
     - target: {fileID: 934844434221545092, guid: fa25f85bb8cf5ee4d924616aa291e049,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3755478634684928423, guid: fa25f85bb8cf5ee4d924616aa291e049,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3957276831698612421, guid: fa25f85bb8cf5ee4d924616aa291e049,
         type: 3}
@@ -997,7 +997,7 @@ PrefabInstance:
     - target: {fileID: 6331210701256411620, guid: fa25f85bb8cf5ee4d924616aa291e049,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7818738912258173328, guid: fa25f85bb8cf5ee4d924616aa291e049,
         type: 3}
@@ -4915,7 +4915,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b07f2ca3663a6041b075ea23c02a6a4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _playerOrigin: {fileID: 2010489082}
+  _playerOrigin: {fileID: 649581270}
   _playerHead: {fileID: 1340212853}
 --- !u!114 &541009032 stripped
 MonoBehaviour:
@@ -5676,6 +5676,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   movingSound: {fileID: 8300000, guid: 3fa9f3c5832d7ca4e95c58feb0996cd9, type: 3}
   movementThreshold: 0.1
+--- !u!4 &649581270 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9151715477604371593, guid: 69f90eb03972c5b4884b1c28a20c7dab,
+    type: 3}
+  m_PrefabInstance: {fileID: 2010489081}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &665582846
 GameObject:
   m_ObjectHideFlags: 0
@@ -36246,12 +36252,6 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 649581268}
   m_SourcePrefab: {fileID: 100100000, guid: 69f90eb03972c5b4884b1c28a20c7dab, type: 3}
---- !u!4 &2010489082 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 9151715477604371593, guid: 69f90eb03972c5b4884b1c28a20c7dab,
-    type: 3}
-  m_PrefabInstance: {fileID: 2010489081}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &2010489083 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1954740201575134231, guid: 69f90eb03972c5b4884b1c28a20c7dab,
