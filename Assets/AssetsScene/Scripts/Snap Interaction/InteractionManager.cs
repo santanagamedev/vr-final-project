@@ -14,6 +14,7 @@ public class InteractionManager : MonoBehaviour {
 
     public bool generalPuzzleActivator = false;
     public GameObject puzzleBox;
+    public GameObject dialogoTrigger;
 
     private void Awake() {
         // Encuentra todos los interactores e interactables din�micamente
@@ -29,6 +30,7 @@ public class InteractionManager : MonoBehaviour {
         //ActivateInteractables();
 
         puzzleBox.SetActive(false);
+        dialogoTrigger.SetActive(false);
     }
 
     private void DeactivateInteractors() {
@@ -53,6 +55,7 @@ public class InteractionManager : MonoBehaviour {
         if (AllPaired()) {
             Debug.Log("�Todos los interactors est�n emparejados con interactables!");
             puzzleBox.SetActive(true);
+            dialogoTrigger.SetActive(true);
             CheckAllPairings();
         }
 

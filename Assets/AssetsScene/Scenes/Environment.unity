@@ -519,6 +519,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 799166423702234448, guid: a7962dd2d3b6cab44aed339deed2234b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1594044930863488789, guid: a7962dd2d3b6cab44aed339deed2234b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -574,6 +579,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: AudioManager
       objectReference: {fileID: 0}
+    - target: {fileID: 2524758816950531794, guid: a7962dd2d3b6cab44aed339deed2234b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3668585033823938150, guid: a7962dd2d3b6cab44aed339deed2234b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -595,7 +605,8 @@ PrefabInstance:
       value: 2.8971062
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 2524758816950531794, guid: a7962dd2d3b6cab44aed339deed2234b, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7962dd2d3b6cab44aed339deed2234b, type: 3}
@@ -1680,6 +1691,11 @@ PrefabInstance:
       propertyPath: puzzleBox
       value: 
       objectReference: {fileID: 940898713}
+    - target: {fileID: 726827722563550772, guid: 2bea473d60c28f1429e3e74d62416ac3,
+        type: 3}
+      propertyPath: dialogoTrigger
+      value: 
+      objectReference: {fileID: 1887388928}
     - target: {fileID: 726827722563550772, guid: 2bea473d60c28f1429e3e74d62416ac3,
         type: 3}
       propertyPath: generalPuzzleActivator
@@ -2930,7 +2946,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movingSound: {fileID: 8300000, guid: 3fa9f3c5832d7ca4e95c58feb0996cd9, type: 3}
-  movementThreshold: 0.1
+  movementThreshold: 0.001
 --- !u!4 &649581270 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 9151715477604371593, guid: 69f90eb03972c5b4884b1c28a20c7dab,
@@ -3010,7 +3026,8 @@ AudioSource:
   m_GameObject: {fileID: 676272899}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 4522286196358362835, guid: 32b77ed0acc250b44bbedfe9632865b6,
+    type: 2}
   m_audioClip: {fileID: 8300000, guid: ed3d938061c99c8409ae11d03625bdad, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
@@ -27971,6 +27988,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2010489081}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1887388928 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 799166423702234448, guid: a7962dd2d3b6cab44aed339deed2234b,
+    type: 3}
+  m_PrefabInstance: {fileID: 65664726}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1887633257
 GameObject:
   m_ObjectHideFlags: 0
@@ -29624,6 +29647,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f0528ce7efbe2d048804c3c7fac23f3e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sfx: {fileID: 8300000, guid: 352488ab96034704cb2926fa97e8ba4f, type: 3}
+  dialogo: {fileID: 8300000, guid: 227b025190553c74b9eb1aef93f8ce66, type: 3}
   puzzelBooksIsEnable: 0
 --- !u!65 &2090575485
 BoxCollider:
@@ -29671,7 +29696,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 352488ab96034704cb2926fa97e8ba4f, type: 3}
+  m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1

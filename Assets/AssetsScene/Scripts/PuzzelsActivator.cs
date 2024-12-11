@@ -5,6 +5,9 @@ using UnityEngine;
 public class PuzzelsActivator : MonoBehaviour
 {
     AudioSource audioSource;
+    public AudioClip sfx;
+    public AudioClip dialogo;
+
     private InteractionManager puzzelBooks;
     public bool puzzelBooksIsEnable = false;
 
@@ -17,8 +20,13 @@ public class PuzzelsActivator : MonoBehaviour
         {
             puzzelBooksIsEnable = true;
             puzzelBooks.generalPuzzleActivator = true;
-            audioSource.PlayOneShot(audioSource.clip);
-            
+            audioSource.PlayOneShot(sfx);
+            Invoke ("DelayDialogo", 1.5f);
         }
+    }
+
+    private void DelayDialogo()
+    {
+        audioSource.PlayOneShot(dialogo);
     }
 }
