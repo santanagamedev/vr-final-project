@@ -7,7 +7,7 @@ public class SlotRelicController : MonoBehaviour
 {
     
     [SerializeField]
-    private bool slotRelicEmpty = true;
+    public bool slotRelicEmpty = true;
     [SerializeField]
     
     private GameObject correctRelic;
@@ -28,9 +28,18 @@ public class SlotRelicController : MonoBehaviour
         
         if ( other.gameObject.name == correctRelic.name)
         {
-            Debug.Log(other.name);
-            Debug.Log("Reliquia en el slot");
+            
             slotRelicEmpty = false;
+            
+        }
+    }
+    private void OnTriggerExit(Collider other) 
+    {
+        
+        if ( other.gameObject.name == correctRelic.name)
+        {
+            
+            slotRelicEmpty = true;
             
         }
     }
