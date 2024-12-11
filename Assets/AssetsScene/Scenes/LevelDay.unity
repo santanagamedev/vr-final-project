@@ -7456,6 +7456,26 @@ MonoBehaviour:
   _data: {fileID: 0}
   _axis2D: {fileID: 1290762013}
   _deadZone: 0.8
+--- !u!1 &1320829731 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5672339499527292773, guid: d962597444ead8c469fe03ee824d8a57,
+    type: 3}
+  m_PrefabInstance: {fileID: 1906715734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1320829732
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1320829731}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25056f629feaf0b46b25907ce4874299, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  movingSound: {fileID: 8300000, guid: 3fa9f3c5832d7ca4e95c58feb0996cd9, type: 3}
+  movementThreshold: 0.001
 --- !u!1 &1345763906
 GameObject:
   m_ObjectHideFlags: 0
@@ -14502,7 +14522,11 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 1856862571}
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5672339499527292773, guid: d962597444ead8c469fe03ee824d8a57,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1320829732}
   m_SourcePrefab: {fileID: 100100000, guid: d962597444ead8c469fe03ee824d8a57, type: 3}
 --- !u!4 &1906715735 stripped
 Transform:
