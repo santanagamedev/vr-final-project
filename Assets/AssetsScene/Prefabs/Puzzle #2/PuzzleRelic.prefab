@@ -1,5 +1,53 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &518079034148047036
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6171876282306708088}
+  - component: {fileID: 4770301006583257577}
+  m_Layer: 0
+  m_Name: PuzzleController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6171876282306708088
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 518079034148047036}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.27758175, y: 0.06814349, z: 0.7263948}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3014999470907143395}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4770301006583257577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 518079034148047036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a27133b8d430b6f4286dfcfc1a785ae0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  respawns:
+  - {fileID: 3197880606819388084}
+  - {fileID: 3083646752304470259}
+  - {fileID: 2724252753122177754}
 --- !u!1 &655355914627605293
 GameObject:
   m_ObjectHideFlags: 0
@@ -636,7 +684,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3014999470907143395}
-  - component: {fileID: 3022149534997364423}
   m_Layer: 0
   m_Name: PuzzleRelic
   m_TagString: Untagged
@@ -659,21 +706,9 @@ Transform:
   m_Children:
   - {fileID: 1674230649304055759}
   - {fileID: 4154883708802111299}
+  - {fileID: 6171876282306708088}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &3022149534997364423
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2015988480062613928}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a27133b8d430b6f4286dfcfc1a785ae0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  respawns: []
 --- !u!1 &2606152688960879342
 GameObject:
   m_ObjectHideFlags: 0
@@ -1151,7 +1186,6 @@ GameObject:
   - component: {fileID: 564512737795066813}
   - component: {fileID: 5997188271516699719}
   - component: {fileID: 8462463324689608766}
-  - component: {fileID: 1080655241542767145}
   - component: {fileID: 1802607910286905763}
   m_Layer: 0
   m_Name: SlotRelic2
@@ -1330,20 +1364,6 @@ MonoBehaviour:
   _whenSelectingInteractorViewRemoved:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &1080655241542767145
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3083646752304470259}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: da80e72b1a4197d45beb330014a44118, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  slotRelicEmpty: 1
-  correctRelic: {fileID: 0}
 --- !u!114 &1802607910286905763
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1563,7 +1583,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotRelicEmpty: 1
-  correctRelic: {fileID: 0}
+  correctRelic: {fileID: 8745480036751528074}
 --- !u!1 &3646059730922312877
 GameObject:
   m_ObjectHideFlags: 0
